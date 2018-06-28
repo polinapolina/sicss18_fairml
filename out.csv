@@ -1,0 +1,1001 @@
+,Unnamed: 0,block_num,id,race,sex,age,juv_fel_count,juv_misd_count,priors_count,charge_id,charge_degree,compas_decile_score,two_year_recid,c_charge_desc,mturk_charge_name,full_charge_description
+0,1,1,8307,African American,Female,53,0,0,5,413,felony,6,0,Unlicensed Telemarketing,Unlicensed Telemarketing,When an unlicensed commercial telemarketing company or unlicensed salesperson solicits a purchaser for the purpose of attempting to sell consumer goods or services
+1,2,1,10406,African American,Male,43,0,0,2,306,felony,7,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+2,3,1,8267,African American,Male,46,0,0,3,371,felony,3,1,Stalking (Aggravated),Stalking,"When a person willfully, maliciously, and repeatedly follows, harasses, or cyberstalks another person"
+3,4,1,5593,Caucasian,Male,37,0,0,4,21,misdemeanor,4,1,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+4,5,1,61,African American,Female,51,0,0,7,306,felony,2,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+5,6,1,5438,African American,Male,20,0,0,1,186,felony,10,1,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+6,7,1,5557,African American,Male,51,0,0,0,423,misdemeanor,4,1,Viol Injunct Domestic Violence,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+7,8,1,9924,Caucasian,Male,29,0,0,0,15,felony,3,1,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+8,9,1,4767,Caucasian,Male,39,0,0,3,306,felony,2,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+9,10,1,1733,Caucasian,Female,52,0,0,6,381,misdemeanor,7,0,Theft/To Deprive,Theft,The taking of another person's property worth less than $300
+10,11,1,4766,Caucasian,Male,26,0,0,2,190,felony,9,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+11,12,1,5647,African American,Female,42,0,0,0,133,misdemeanor,1,1,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+12,13,1,8827,Hispanic,Male,26,0,0,5,129,felony,3,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+13,14,1,2719,African American,Male,23,0,0,1,167,felony,4,1,Felony Batt(Great Bodily Harm),Battery,Intentionally causing bodily harm to another person without a weapon
+14,15,1,1443,African American,Male,45,0,0,0,318,felony,5,1,Possession of Morphine,Possession of Morphine,Possession of Morphine
+15,16,1,7652,African American,Male,25,0,0,8,172,felony,8,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+16,17,1,3732,African American,Male,26,0,0,1,93,misdemeanor,1,0,Criminal Mischief Damage <$200,Criminal Damage of less than $1000,"When a person willfully and maliciously damages another person's property - with damage less than $1,000"
+17,18,1,1024,African American,Male,27,0,0,0,306,misdemeanor,2,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+18,19,1,10307,African American,Male,31,2,0,6,169,felony,6,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+19,20,1,8613,Caucasian,Male,33,0,0,2,133,misdemeanor,2,0,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+20,21,1,6064,Caucasian,Female,31,0,0,0,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+21,22,1,10452,African American,Female,44,0,0,0,379,felony,1,0,Tampering With Physical Evidence,Tampering With Physical Evidence,"When a person alters, destroys, suppresses or conceals any record, document or thing with purpose to impair its verity, legibility or availability in any official proceeding or investigation"
+22,23,1,8141,Caucasian,Male,21,0,0,0,400,felony,4,0,Trespassing/Construction Site,Trespassing,"Willfully entering or remaining on some form of real property without authorization, license, or invitation"
+23,24,1,3398,African American,Male,21,1,2,3,92,felony,10,1,Criminal Mischief,Criminal Damage of less than $1000,"When a person willfully and maliciously damages another person's property - with damage less than $1,000"
+24,25,1,8104,African American,Female,42,0,0,16,336,felony,6,0,Resist Officer w/Violence,Resisting an Officer with Violence,"When a person knowingly and willfully resists, obstructs, or opposes a law enforcement officer by threatening violence or engaging in violent conduct against the law enforcement officer was engaged in the lawful execution of a legal duty"
+25,26,1,9644,African American,Male,22,0,0,0,283,misdemeanor,6,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+26,27,1,3635,African American,Female,24,0,0,2,89,felony,4,0,Crim Use of Personal ID Info,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+27,28,1,1642,Caucasian,Male,29,0,0,1,45,misdemeanor,6,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+28,29,1,9295,Hispanic,Male,30,0,0,2,313,felony,2,0,Possession of Hydromorphone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+29,30,1,4105,Caucasian,Male,33,0,0,7,229,felony,9,1,Neglect Child / No Bodily Harm,Child Neglect,"When a caregiver willfully, or through culpable negligence, fails to provide a child with the care, supervision, and services necessary to maintain the child's physical and mental health that a prudent person would consider essential for the well-being of the child"
+30,31,1,8517,African American,Male,23,0,0,0,45,misdemeanor,3,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+31,32,1,4841,Caucasian,Male,55,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+32,33,1,10011,African American,Male,45,0,0,4,127,misdemeanor,3,1,Driving License Suspended,Driving with a Suspended License,Driving with a license that has been suspended
+33,34,1,1441,African American,Male,30,0,0,1,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+34,35,1,2182,African American,Female,26,0,0,1,190,felony,6,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+35,36,1,9435,Caucasian,Male,24,0,0,3,306,felony,5,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+36,37,1,1741,African American,Male,24,0,0,5,418,felony,6,1,Uttering a Forged Instrument,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+37,38,1,7324,Caucasian,Male,30,0,0,0,169,felony,1,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+38,39,1,2910,Caucasian,Male,42,0,0,0,128,misdemeanor,4,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+39,40,1,3957,Hispanic,Male,24,0,0,1,84,misdemeanor,2,0,Contribute Delinquency Of A Minor,Contributing to the Delinquency Of A Minor,"When a person over the age of eighteen commits any act which causes, tends to cause, encourages, or contributes to a minor become delinquent, dependent, or a child in need of services"
+40,41,1,1022,African American,Female,31,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+41,42,1,921,African American,Male,30,0,0,1,283,misdemeanor,7,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+42,43,1,3115,African American,Female,40,0,0,7,326,misdemeanor,4,0,Prostitution/Lewd Act Assignation,Prostitution,Engaging in sex for money
+43,44,1,7678,African American,Male,28,0,2,7,306,felony,7,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+44,45,1,855,African American,Male,38,0,0,0,60,felony,1,0,Burglary Dwelling Assault/Batt,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+45,46,1,2393,African American,Male,22,0,0,0,65,felony,3,0,Burglary Unoccupied Dwelling,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+46,47,1,9501,Hispanic,Male,45,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+47,48,1,7412,Caucasian,Male,28,0,0,0,169,felony,2,1,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+48,49,1,10044,Caucasian,Male,34,0,0,0,374,misdemeanor,2,1,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+49,50,1,8938,African American,Female,48,0,0,0,45,misdemeanor,5,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+50,51,2,3248,Caucasian,Male,70,0,0,11,306,felony,1,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+51,52,2,4943,African American,Male,46,1,0,9,190,felony,9,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+52,53,2,3854,African American,Male,22,0,0,1,190,felony,3,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+53,54,2,1103,African American,Male,22,0,0,0,246,felony,8,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+54,55,2,4977,Caucasian,Male,39,6,1,17,306,felony,7,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+55,56,2,5765,African American,Male,51,1,0,19,175,felony,9,0,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+56,57,2,2002,Caucasian,Male,49,0,0,12,283,misdemeanor,5,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+57,58,2,4860,African American,Female,24,0,0,0,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+58,59,2,1941,African American,Male,28,0,0,0,134,misdemeanor,1,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+59,60,2,913,African American,Male,31,0,0,3,425,misdemeanor,8,1,Viol Pretrial Release Dom Viol,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+60,61,2,3010,Caucasian,Male,58,0,0,0,132,misdemeanor,1,0,DUI Blood Alcohol Above 0.20,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+61,62,2,7897,Caucasian,Female,24,0,0,0,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+62,63,2,7920,African American,Male,22,0,0,0,289,felony,4,0,Possess w/I/Utter Forged Bills,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+63,64,2,375,Caucasian,Male,30,0,0,4,159,felony,2,0,False Imprisonment,False Imprisonment,"When a person either forcibly, by threat, confines, abducts, imprisons, or restrains another person without lawful authority against their will, or secretly confines, abducts, imprisons, or restrains another person without lawful authority against their will"
+64,65,2,4991,African American,Male,58,0,0,10,306,felony,3,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+65,66,2,4546,African American,Male,32,0,0,0,306,felony,1,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+66,67,2,8046,African American,Male,27,0,0,13,246,felony,10,1,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+67,68,2,1066,Caucasian,Male,40,0,0,1,222,felony,2,0,Manufacture Cannabis,Manufacturing Cannabis/Marijuana,Manufacturing or cultivating cannabis
+68,69,2,5049,Caucasian,Female,26,0,0,0,128,misdemeanor,2,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+69,70,2,10502,Caucasian,Male,31,0,0,0,169,felony,1,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+70,71,2,4640,African American,Male,25,0,1,10,112,felony,10,1,Deliver Cocaine,Dealing Cocaine,Possessing cocaine with the intent to sell or deliver the cocaine
+71,72,2,4098,African American,Male,26,0,0,4,344,felony,4,1,Robbery Sudd Snatch No Weapon,Robbery,"When a person intentionally and unlawfully takes money or property from another person through the use of force, violence, assault, or threat"
+72,73,2,7834,African American,Male,33,0,0,1,169,felony,2,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+73,74,2,794,African American,Male,29,0,0,5,253,felony,5,1,Poss Contr Subst W/o Prescript,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+74,75,2,408,Caucasian,Female,22,0,0,1,246,felony,3,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+75,76,2,3647,African American,Male,20,0,0,0,190,felony,3,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+76,77,2,5500,Caucasian,Male,72,0,0,7,344,felony,4,0,Robbery Sudd Snatch No Weapon,Robbery,"When a person intentionally and unlawfully takes money or property from another person through the use of force, violence, assault, or threat"
+77,78,2,2034,Caucasian,Male,37,0,0,2,209,felony,2,0,Leaving the Scene of Accident,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+78,79,2,726,Caucasian,Male,34,0,0,4,303,felony,6,1,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+79,80,2,9634,Hispanic,Male,24,0,0,2,212,felony,3,0,Lewd/Lasc Battery Pers 12+/<16,Child Molestation,"Intentionally touching the breasts, genitals, or buttocks of a child younger than 16 in a lewd or lascivious manner"
+80,81,2,6189,Caucasian,Female,46,0,0,1,167,felony,2,0,Felony Batt(Great Bodily Harm),Battery,Intentionally causing bodily harm to another person without a weapon
+81,82,2,4629,Caucasian,Male,55,0,0,0,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+82,83,2,9407,African American,Male,40,0,0,20,129,felony,7,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+83,84,2,6240,African American,Male,50,0,0,0,306,felony,1,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+84,85,2,2525,Caucasian,Male,28,0,0,0,86,felony,2,0,Counterfeit Lic Plates/Sticker,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+85,86,2,8162,Asian,Male,48,0,0,0,15,felony,2,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+86,87,2,1195,African American,Female,37,0,0,3,336,felony,7,0,Resist Officer w/Violence,Resisting an Officer with Violence,"When a person knowingly and willfully resists, obstructs, or opposes a law enforcement officer by threatening violence or engaging in violent conduct against the law enforcement officer was engaged in the lawful execution of a legal duty"
+87,88,2,2703,African American,Male,51,0,0,3,172,felony,7,0,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+88,89,2,6207,African American,Male,38,0,0,0,145,misdemeanor,8,1,Extradition/Defendants,Extradition of Defendants,The transfer of an accused criminal by one state or nation to another
+89,90,2,10423,Caucasian,Male,28,0,0,2,377,felony,2,1,Tamper With Witness/Victim/CI,Tampering with a Witness,The act of attempting to alter or prevent the testimony of witnesses within criminal or civil proceedings
+90,91,2,282,Caucasian,Male,45,0,0,8,423,misdemeanor,4,1,Viol Injunct Domestic Violence,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+91,92,2,7032,Caucasian,Female,58,0,0,1,134,misdemeanor,2,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+92,93,2,838,African American,Male,44,0,0,1,333,misdemeanor,3,0,Reckless Driving,Reckless Driving,When you drive a vehicle in a manner that shows a willful disregard for the safety of persons or property
+93,94,2,10220,African American,Male,24,0,0,1,246,felony,3,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+94,95,2,1490,African American,Male,30,0,0,4,45,misdemeanor,4,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+95,96,2,6884,Caucasian,Male,29,0,0,0,18,felony,8,0,Aggravated Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+96,97,2,10748,Caucasian,Male,44,0,0,1,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+97,98,2,1361,African American,Male,27,0,0,5,142,misdemeanor,3,1,Expired DL More Than 6 Months,Driving with an Expired License,Driving with a license that is expired
+98,99,2,4161,African American,Male,54,0,0,0,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+99,100,2,5270,African American,Male,31,0,0,0,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+100,101,3,7416,Hispanic,Male,26,0,0,2,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+101,102,3,8099,Caucasian,Male,28,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+102,103,3,2685,African American,Female,21,0,0,0,190,felony,5,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+103,104,3,2624,African American,Male,51,0,0,0,306,felony,2,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+104,105,3,3768,African American,Female,36,0,0,1,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+105,106,3,10448,African American,Male,48,0,0,11,337,misdemeanor,4,1,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+106,107,3,5614,African American,Male,33,0,0,2,10,felony,8,1,Aggrav Battery w/Deadly Weapon,Battery with a Deadly Weapon,Intentionally causing bodily harm to another person with a deadly weapon
+107,108,3,2338,Hispanic,Male,59,0,0,0,133,misdemeanor,1,0,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+108,109,3,4029,Hispanic,Male,28,0,0,0,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+109,110,3,4082,Caucasian,Male,24,0,0,0,375,felony,5,1,Tamper With Victim,Tampering with a Witness,The act of attempting to alter or prevent the testimony of witnesses within criminal or civil proceedings
+110,111,3,4426,Caucasian,Female,43,0,0,0,186,misdemeanor,2,0,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+111,112,3,7079,Caucasian,Male,25,0,0,3,280,felony,7,0,"Poss3,4 Methylenedioxymethcath",Possession of Ecstasy,Possession of Ecstasy
+112,113,3,7840,Caucasian,Male,22,0,0,1,190,felony,2,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+113,114,3,9889,African American,Male,35,0,0,9,303,felony,6,0,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+114,115,3,7315,African American,Male,24,0,0,2,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+115,116,3,2691,African American,Male,54,0,0,0,368,misdemeanor,1,0,Soliciting For Prostitution,Soliciting For Prostitution,"When a person solicits, induces, entices, or procures another person to engage in prostitution, lewdness, or assignation"
+116,117,3,7010,African American,Male,54,0,0,4,306,felony,3,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+117,118,3,7170,Caucasian,Male,22,0,0,0,306,felony,5,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+118,119,3,6314,Caucasian,Male,20,0,0,0,187,felony,6,1,Grand Theft Dwell Property,Grand Theft,The unlawful taking of property worth more than $300
+119,120,3,999,Caucasian,Male,38,0,0,1,90,felony,1,1,Crimin Mischief Damage $1000+,Criminal Damage of more than $1000,"When a person willfully and maliciously damages another person's property - with damage of more than $1,000"
+120,121,3,4620,Caucasian,Male,41,0,0,0,306,felony,2,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+121,122,3,8909,Caucasian,Male,46,0,0,0,127,misdemeanor,1,0,Driving License Suspended,Driving with a Suspended License,Driving with a license that has been suspended
+122,123,3,5607,Caucasian,Male,38,0,0,2,311,felony,3,0,Possession Of Heroin,Possession of Heroin,
+123,124,3,4126,African American,Male,30,0,0,0,319,felony,2,1,Possession of Oxycodone,Possession of Oxycodone,Possession of Oxycodone
+124,125,3,6683,African American,Female,24,0,0,3,244,misdemeanor,6,1,PL/Unlaw Use Credit Card,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+125,126,3,10390,Caucasian,Male,29,0,0,3,306,felony,4,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+126,127,3,10762,Hispanic,Female,26,0,0,1,130,misdemeanor,4,0,DUI - Enhanced,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+127,128,3,4703,Hispanic,Male,25,0,0,0,246,felony,2,1,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+128,129,3,9428,Caucasian,Male,52,0,0,7,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+129,130,3,5917,African American,Male,32,0,0,1,132,misdemeanor,4,1,DUI Blood Alcohol Above 0.20,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+130,131,3,5213,Hispanic,Male,33,0,0,3,127,misdemeanor,2,0,Driving License Suspended,Driving with a Suspended License,Driving with a license that has been suspended
+131,132,3,505,African American,Male,29,0,0,0,15,felony,1,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+132,133,3,1833,Asian,Male,24,0,0,0,404,felony,3,0,Unauth Poss ID Card or DL,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+133,134,3,5352,African American,Male,24,0,0,0,128,misdemeanor,2,1,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+134,135,3,7224,African American,Male,24,0,0,1,169,felony,3,1,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+135,136,3,10783,Caucasian,Male,66,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+136,137,3,5217,African American,Male,37,0,0,0,169,felony,1,1,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+137,138,3,4461,Caucasian,Male,64,0,0,8,129,felony,1,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+138,139,3,3510,Caucasian,Male,36,1,0,10,45,misdemeanor,9,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+139,140,3,9844,Caucasian,Male,51,0,0,2,190,felony,1,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+140,141,3,526,Caucasian,Female,21,0,0,0,306,felony,6,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+141,142,3,10824,African American,Female,23,0,0,1,58,felony,4,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+142,143,3,9690,African American,Female,26,0,0,0,144,misdemeanor,2,0,Exposes Culpable Negligence,Child Abuse,Intentional infliction of physical or mental injury upon a child
+143,144,3,10919,African American,Male,35,0,0,12,45,misdemeanor,6,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+144,145,3,2572,African American,Female,28,0,0,2,297,felony,5,1,Possession Of Alprazolam,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+145,146,3,8528,African American,Male,32,0,0,1,159,felony,2,0,False Imprisonment,False Imprisonment,"When a person either forcibly, by threat, confines, abducts, imprisons, or restrains another person without lawful authority against their will, or secretly confines, abducts, imprisons, or restrains another person without lawful authority against their will"
+146,147,3,1159,African American,Female,53,0,0,0,172,felony,1,0,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+147,148,3,3234,Caucasian,Male,39,0,0,8,15,felony,1,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+148,149,3,1286,Caucasian,Male,24,0,2,3,129,felony,4,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+149,150,3,7219,African American,Male,32,0,0,3,186,felony,4,0,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+150,151,4,2773,African American,Female,49,0,0,14,45,misdemeanor,7,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+151,152,4,4558,Caucasian,Male,33,0,0,0,336,felony,1,0,Resist Officer w/Violence,Resisting an Officer with Violence,"When a person knowingly and willfully resists, obstructs, or opposes a law enforcement officer by threatening violence or engaging in violent conduct against the law enforcement officer was engaged in the lawful execution of a legal duty"
+152,153,4,9352,Caucasian,Male,20,0,4,4,186,felony,10,0,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+153,154,4,8924,African American,Male,27,0,0,1,21,felony,4,1,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+154,155,4,853,African American,Male,50,0,0,3,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+155,156,4,1385,African American,Male,28,0,0,4,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+156,157,4,5489,African American,Male,24,0,0,7,21,felony,8,1,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+157,158,4,5449,Caucasian,Male,32,0,0,1,64,felony,3,0,Burglary Structure Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+158,159,4,9919,African American,Male,32,0,0,0,303,misdemeanor,4,0,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+159,160,4,1856,Caucasian,Male,21,0,0,1,49,felony,4,0,Battery on Law Enforc Officer,Battery,Intentionally causing bodily harm to another person without a weapon
+160,161,4,1162,African American,Male,26,0,0,5,186,felony,7,1,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+161,162,4,10958,Caucasian,Female,49,0,0,2,186,felony,6,0,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+162,163,4,3794,African American,Male,46,0,0,0,246,felony,7,1,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+163,164,4,5127,Caucasian,Female,25,0,0,0,128,misdemeanor,4,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+164,165,4,4193,Hispanic,Male,44,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+165,166,4,9933,African American,Male,27,2,0,14,159,felony,10,1,False Imprisonment,False Imprisonment,"When a person either forcibly, by threat, confines, abducts, imprisons, or restrains another person without lawful authority against their will, or secretly confines, abducts, imprisons, or restrains another person without lawful authority against their will"
+166,167,4,3738,Caucasian,Male,28,0,0,14,246,felony,9,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+167,168,4,9231,Caucasian,Male,35,0,0,3,306,felony,4,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+168,169,4,10709,Caucasian,Male,74,0,0,0,219,misdemeanor,1,0,Lve/Scen/Acc/Veh/Prop/Damage,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+169,170,4,3315,Caucasian,Male,62,0,0,0,31,misdemeanor,1,0,Assault,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+170,171,4,6386,Hispanic,Male,28,0,0,2,204,felony,3,1,Kidnapping / Domestic Violence,Kidnapping,"When a person forcibly, secretly, or by threat confines, abducts, or imprisons another person against their will, without lawful authority"
+171,172,4,6546,Hispanic,Male,28,0,0,2,190,felony,8,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+172,173,4,5830,Caucasian,Male,25,0,0,2,55,felony,4,0,Burglary Conveyance Armed,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+173,174,4,3848,African American,Male,26,0,0,5,11,felony,8,1,Aggrav Child Abuse-Agg Battery,Child Abuse,Intentional infliction of physical or mental injury upon a child
+174,175,4,9242,Caucasian,Male,38,0,0,0,297,felony,1,0,Possession Of Alprazolam,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+175,176,4,4290,African American,Male,29,0,0,1,374,misdemeanor,1,0,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+176,177,4,685,African American,Female,46,0,0,2,190,felony,10,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+177,178,4,7517,African American,Female,41,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+178,179,4,7437,Caucasian,Female,29,0,0,20,129,felony,10,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+179,180,4,10137,African American,Male,32,0,0,0,21,felony,7,0,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+180,181,4,9586,African American,Female,22,0,0,0,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+181,182,4,9467,African American,Male,22,0,0,0,280,felony,7,1,"Poss3,4 Methylenedioxymethcath",Possession of Ecstasy,Possession of Ecstasy
+182,183,4,9336,African American,Male,26,0,0,5,129,felony,4,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+183,184,4,8532,African American,Male,30,0,0,1,15,felony,2,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+184,185,4,2228,African American,Male,19,0,2,3,190,felony,4,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+185,186,4,10591,Caucasian,Male,40,0,0,4,190,felony,5,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+186,187,4,5985,Caucasian,Male,65,0,0,0,134,misdemeanor,1,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+187,188,4,9328,Hispanic,Female,41,0,0,0,190,felony,1,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+188,189,4,1166,African American,Male,27,0,0,4,246,felony,9,1,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+189,190,4,7830,African American,Female,31,0,0,2,21,felony,5,1,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+190,191,4,6171,African American,Female,45,0,0,1,129,felony,1,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+191,192,4,10150,African American,Male,28,0,0,3,242,misdemeanor,2,1,Petit Theft,Theft,The taking of another person's property worth less than $300
+192,193,4,4117,Caucasian,Female,48,0,0,1,133,misdemeanor,1,0,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+193,194,4,42,African American,Male,32,0,0,4,36,felony,8,1,Att Tamper w/Physical Evidence,Tampering with Physical Evidence,
+194,195,4,9686,African American,Male,24,0,0,0,280,felony,4,0,"Poss3,4 Methylenedioxymethcath",Possession of Ecstasy,Possession of Ecstasy
+195,196,4,10700,African American,Male,36,1,2,14,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+196,197,4,9399,Hispanic,Male,43,0,0,3,45,misdemeanor,3,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+197,198,4,9820,African American,Male,29,0,0,2,242,misdemeanor,4,0,Petit Theft,Theft,The taking of another person's property worth less than $300
+198,199,4,9609,Hispanic,Female,32,0,0,8,326,misdemeanor,5,1,Prostitution/Lewd Act Assignation,Prostitution,Engaging in sex for money
+199,200,4,7199,African American,Male,28,0,0,1,186,felony,6,0,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+200,201,5,10319,African American,Male,43,0,0,3,172,felony,1,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+201,202,5,2901,African American,Male,26,0,0,6,303,felony,9,1,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+202,203,5,5307,African American,Male,36,0,0,4,306,felony,4,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+203,204,5,2006,African American,Male,22,0,0,0,252,felony,8,1,Poss Cocaine/Intent To Del/Sel,Possession of Cocaine,Possession of cocaine
+204,205,5,115,African American,Female,26,0,0,1,252,felony,4,1,Poss Cocaine/Intent To Del/Sel,Possession of Cocaine,Possession of cocaine
+205,206,5,1044,African American,Male,36,0,1,4,45,misdemeanor,5,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+206,207,5,7602,African American,Male,31,0,0,11,186,felony,7,1,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+207,208,5,2737,African American,Male,26,0,0,9,126,felony,8,1,Drivg While Lic Suspd/Revk/Can,Driving with a Suspended License,Driving with a license that has been suspended
+208,209,5,2020,Hispanic,Male,28,0,0,11,45,misdemeanor,7,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+209,210,5,4996,Caucasian,Male,27,0,0,1,100,felony,1,0,Dealing in Stolen Property,Dealing Controlled Substances,Possessing a criminalized narcotic or pharmacological drug with the intent to sell or deliver
+210,211,5,1130,Caucasian,Male,30,0,0,22,306,felony,5,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+211,212,5,2195,African American,Male,25,0,0,8,190,felony,6,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+212,213,5,3309,Caucasian,Male,26,0,0,5,382,felony,5,1,Threat Public Servant,Threat Against Public Servant,"An intentional and unlawful threat against an emergency medical care provider, firefighter, or law enforcement officer, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+213,214,5,4342,African American,Male,23,0,0,2,280,felony,8,1,"Poss3,4 Methylenedioxymethcath",Possession of Ecstasy,Possession of Ecstasy
+214,215,5,7457,African American,Male,26,0,0,5,61,felony,7,1,Burglary Dwelling Occupied,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+215,216,5,3863,Caucasian,Male,26,0,0,0,93,misdemeanor,2,0,Criminal Mischief Damage <$200,Criminal Damage of less than $1000,"When a person willfully and maliciously damages another person's property - with damage less than $1,000"
+216,217,5,5882,African American,Male,44,0,0,0,317,felony,2,1,Possession Of Methamphetamine,Possession of Meth,Possession of Meth
+217,218,5,5543,Caucasian,Male,45,0,0,3,45,misdemeanor,3,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+218,219,5,6129,African American,Male,28,0,0,1,56,felony,1,0,Burglary Conveyance Assault/Bat,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+219,220,5,7636,African American,Female,38,0,0,0,151,misdemeanor,2,0,Fail To Obey Police Officer,Failure to Obey Police Officer,Failure to obey the orders of a police officer
+220,221,5,3145,African American,Male,30,0,1,7,285,felony,5,1,Possess Countrfeit Credit Card,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+221,222,5,2156,Caucasian,Male,45,0,0,1,342,felony,5,1,Robbery / No Weapon,Robbery,"When a person intentionally and unlawfully takes money or property from another person through the use of force, violence, assault, or threat"
+222,223,5,7258,African American,Male,26,0,0,8,85,felony,7,1,Corrupt Public Servant,Threatening a Public Servant,
+223,224,5,7003,African American,Male,61,0,0,20,374,misdemeanor,2,1,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+224,225,5,10327,Caucasian,Male,23,0,0,0,45,misdemeanor,5,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+225,226,5,7958,Caucasian,Male,58,0,0,5,283,misdemeanor,2,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+226,227,5,6096,African American,Male,20,0,0,1,21,misdemeanor,9,1,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+227,228,5,10401,Caucasian,Female,47,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+228,229,5,6586,Caucasian,Female,53,0,0,6,306,felony,5,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+229,230,5,9357,African American,Male,36,0,0,6,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+230,231,5,6170,African American,Male,29,0,1,8,45,misdemeanor,9,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+231,232,5,1160,African American,Female,23,0,0,0,10,felony,7,0,Aggrav Battery w/Deadly Weapon,Battery with a Deadly Weapon,Intentionally causing bodily harm to another person with a deadly weapon
+232,233,5,6377,Caucasian,Male,27,0,0,2,278,felony,7,1,Poss/Sell/Del/Man Amobarbital,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+233,234,5,2533,Caucasian,Male,19,0,0,0,45,misdemeanor,6,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+234,235,5,9617,African American,Male,27,0,0,4,268,felony,4,1,Poss Pyrrolidinovalerophenone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+235,236,5,5433,African American,Female,20,0,0,1,175,felony,8,1,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+236,237,5,9833,Caucasian,Male,67,0,0,0,97,felony,1,0,Cruelty Toward Child,Child Abuse,Intentional infliction of physical or mental injury upon a child
+237,238,5,4122,Caucasian,Female,25,0,0,0,1,felony,6,0,Abuse Without Great Harm,Abuse,The intentional infliction of physical or psychological injury
+238,239,5,2586,Caucasian,Male,40,0,0,1,42,felony,1,0,Attempted Robbery  No Weapon,Robbery,"When a person intentionally and unlawfully takes money or property from another person through the use of force, violence, assault, or threat"
+239,240,5,1870,African American,Male,20,0,0,0,71,felony,3,0,Carrying Concealed Firearm,Carrying a Concealed Weapon,"When a person knowingly carries, on or about their person, a weapon that is concealed from the ordinary sight of another person"
+240,241,5,2502,Hispanic,Male,45,0,0,0,186,felony,1,0,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+241,242,5,4724,African American,Female,64,0,0,1,337,misdemeanor,1,1,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+242,243,5,2790,Caucasian,Male,43,0,0,0,134,misdemeanor,4,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+243,244,5,3602,African American,Male,35,0,0,10,426,misdemeanor,8,1,Viol Prot Injunc Repeat Viol,Restraining Order Violation,Violating the terms of a restraining order
+244,245,5,10706,African American,Male,42,0,0,0,283,misdemeanor,7,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+245,246,5,6251,African American,Male,33,0,0,5,172,felony,4,0,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+246,247,5,1059,African American,Male,24,0,0,1,45,misdemeanor,6,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+247,248,5,3322,African American,Male,22,0,0,0,190,felony,4,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+248,249,5,4444,Caucasian,Female,25,0,0,2,140,felony,10,0,Escape,Escape,"When a prisoner escapes or attempts to escape from a place of confinement, or when an arrested person who is being transported to or from a place of confinement escapes or attempts to escape from such lawful confinement"
+249,250,5,10076,African American,Male,21,0,0,2,190,felony,4,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+250,251,6,9045,Caucasian,Male,46,0,0,0,190,felony,5,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+251,252,6,4258,Caucasian,Male,25,0,0,0,134,misdemeanor,2,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+252,253,6,4101,African American,Male,31,0,2,8,45,misdemeanor,10,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+253,254,6,800,African American,Male,55,0,0,0,45,misdemeanor,8,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+254,255,6,893,Hispanic,Male,31,0,0,0,134,misdemeanor,1,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+255,256,6,6908,African American,Male,30,0,0,21,129,felony,7,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+256,257,6,8054,African American,Male,53,0,0,5,49,felony,4,0,Battery on Law Enforc Officer,Battery,Intentionally causing bodily harm to another person without a weapon
+257,258,6,9150,Caucasian,Male,21,0,2,2,315,felony,9,1,Possession of LSD,Possession of LSD,Possession of LSD
+258,259,6,4226,Caucasian,Male,31,0,0,3,313,felony,4,1,Possession of Hydromorphone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+259,260,6,6424,Hispanic,Male,45,0,0,1,283,misdemeanor,1,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+260,261,6,4686,African American,Female,50,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+261,262,6,7578,African American,Female,43,0,0,2,426,misdemeanor,2,0,Viol Prot Injunc Repeat Viol,Restraining Order Violation,Violating the terms of a restraining order
+262,263,6,4404,African American,Female,28,0,0,0,171,felony,10,1,Felony Committing Prostitution,Prostitution,Engaging in sex for money
+263,264,6,8188,Caucasian,Male,26,0,0,3,45,misdemeanor,10,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+264,265,6,7985,African American,Male,35,0,0,0,319,felony,4,0,Possession of Oxycodone,Possession of Oxycodone,Possession of Oxycodone
+265,266,6,1865,Caucasian,Male,36,0,0,0,159,felony,1,0,False Imprisonment,False Imprisonment,"When a person either forcibly, by threat, confines, abducts, imprisons, or restrains another person without lawful authority against their will, or secretly confines, abducts, imprisons, or restrains another person without lawful authority against their will"
+266,267,6,8905,Caucasian,Male,52,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+267,268,6,206,Caucasian,Female,29,0,1,10,190,felony,4,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+268,269,6,7472,Caucasian,Male,80,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+269,270,6,7555,Caucasian,Female,64,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+270,271,6,2955,African American,Male,30,0,0,1,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+271,272,6,7348,African American,Male,38,0,0,0,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+272,273,6,4967,African American,Male,32,0,3,10,358,felony,6,1,Sexual Battery / Vict 12 Yrs +,Sexual Assault,"Sexual assault, also known as rape, sexual abuse and sexual battery, is defined as unwanted oral, anal or vaginal penetration by, or union with, the sexual organ of another or the anal or vaginal penetration of another by any other object"
+273,274,6,8248,Caucasian,Male,28,0,0,5,45,misdemeanor,7,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+274,275,6,5575,African American,Female,29,0,0,9,250,felony,7,1,Poss Anti-Shoplifting Device,Theft,The taking of another person's property worth less than $300
+275,276,6,6379,Caucasian,Male,22,0,0,1,253,felony,6,0,Poss Contr Subst W/o Prescript,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+276,277,6,5134,Caucasian,Male,27,0,0,18,175,felony,9,1,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+277,278,6,227,African American,Female,31,0,0,0,319,felony,3,1,Possession of Oxycodone,Possession of Oxycodone,Possession of Oxycodone
+278,279,6,6229,Caucasian,Male,38,0,0,5,176,misdemeanor,5,1,Felony/Driving Under Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+279,280,6,5923,Caucasian,Male,29,0,0,2,169,felony,2,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+280,281,6,7259,Caucasian,Male,26,0,0,5,31,misdemeanor,5,0,Assault,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+281,282,6,10008,Caucasian,Male,28,0,0,1,268,felony,4,1,Poss Pyrrolidinovalerophenone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+282,283,6,9830,Caucasian,Male,48,0,0,0,306,felony,2,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+283,284,6,4637,African American,Male,36,0,0,2,129,felony,1,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+284,285,6,8882,African American,Male,22,0,0,2,423,misdemeanor,9,1,Viol Injunct Domestic Violence,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+285,286,6,3289,African American,Male,38,0,0,15,16,felony,6,0,Aggravated Assault w/Firearm,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+286,287,6,3790,Caucasian,Male,29,0,0,1,306,felony,3,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+287,288,6,9437,Hispanic,Male,23,0,1,2,190,felony,9,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+288,289,6,9405,African American,Female,38,0,0,7,190,felony,10,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+289,290,6,552,Caucasian,Male,22,0,0,2,283,misdemeanor,6,1,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+290,291,6,5852,African American,Female,55,0,0,1,246,felony,1,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+291,292,6,2758,African American,Male,25,0,0,0,271,felony,2,0,Poss Tetrahydrocannabinols,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+292,293,6,10878,Hispanic,Male,47,0,0,3,127,misdemeanor,6,1,Driving License Suspended,Driving with a Suspended License,Driving with a license that has been suspended
+293,294,6,8881,African American,Male,40,0,0,0,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+294,295,6,5330,African American,Male,29,0,0,0,134,misdemeanor,1,1,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+295,296,6,4907,African American,Male,31,2,1,16,190,felony,9,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+296,297,6,2605,Hispanic,Male,45,0,0,1,426,misdemeanor,8,0,Viol Prot Injunc Repeat Viol,Restraining Order Violation,Violating the terms of a restraining order
+297,298,6,10491,Caucasian,Male,29,0,0,1,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+298,299,6,3215,Caucasian,Male,52,0,0,0,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+299,300,6,2476,African American,Male,26,0,1,13,129,felony,8,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+300,301,7,3246,Caucasian,Male,30,0,0,0,134,misdemeanor,3,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+301,302,7,3408,Caucasian,Female,19,0,0,0,170,felony,3,1,Felony Battery w/Prior Convict,Battery,Intentionally causing bodily harm to another person without a weapon
+302,303,7,10721,Caucasian,Male,50,0,0,4,123,misdemeanor,2,0,Disorderly Intoxication,Disorderly Intoxication,"When an intoxicated person endangers the safety of another person or property, or causes a disturbance in public"
+303,304,7,6319,African American,Male,23,0,0,2,423,misdemeanor,9,1,Viol Injunct Domestic Violence,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+304,305,7,4028,African American,Female,35,0,0,0,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+305,306,7,1871,African American,Female,25,0,0,2,49,felony,8,1,Battery on Law Enforc Officer,Battery,Intentionally causing bodily harm to another person without a weapon
+306,307,7,5993,Caucasian,Male,51,0,0,1,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+307,308,7,5223,African American,Female,23,0,0,1,268,felony,5,1,Poss Pyrrolidinovalerophenone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+308,309,7,2718,African American,Female,35,0,0,0,306,felony,3,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+309,310,7,9524,Caucasian,Male,29,0,0,1,206,misdemeanor,10,0,Leave Acc/Attend Veh/More $50,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+310,311,7,6801,Caucasian,Male,44,0,0,1,306,felony,8,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+311,312,7,10677,African American,Male,29,0,0,10,169,felony,9,1,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+312,313,7,3642,African American,Male,41,0,0,3,172,felony,4,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+313,314,7,5850,Caucasian,Female,25,0,0,2,408,misdemeanor,3,1,Unlaw Lic Use/Disply Of Others,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+314,315,7,4609,Caucasian,Male,50,0,0,0,134,misdemeanor,1,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+315,316,7,6980,African American,Female,28,0,0,13,21,felony,9,1,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+316,317,7,9268,Caucasian,Male,28,0,0,1,163,felony,2,1,False Ownership Info/Pawn Item,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+317,318,7,2854,African American,Male,31,0,0,19,129,felony,9,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+318,319,7,9979,Caucasian,Female,34,0,0,1,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+319,320,7,10134,Hispanic,Male,25,0,0,6,45,misdemeanor,7,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+320,321,7,700,African American,Male,26,1,1,10,18,felony,9,1,Aggravated Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+321,322,7,3692,African American,Male,41,0,0,8,129,felony,2,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+322,323,7,2897,Caucasian,Male,28,0,0,1,306,felony,7,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+323,324,7,2353,Caucasian,Male,47,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+324,325,7,2937,Caucasian,Male,20,0,0,0,190,felony,5,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+325,326,7,5027,African American,Male,27,0,0,6,175,felony,4,1,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+326,327,7,5886,Caucasian,Male,53,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+327,328,7,332,African American,Female,30,0,0,2,190,felony,7,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+328,329,7,10528,Hispanic,Male,41,0,0,1,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+329,330,7,5383,African American,Female,19,0,0,1,65,felony,9,1,Burglary Unoccupied Dwelling,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+330,331,7,10921,African American,Male,26,0,0,2,409,misdemeanor,2,0,Unlaw LicTag/Sticker Attach,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+331,332,7,3122,Caucasian,Male,46,0,0,2,283,misdemeanor,4,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+332,333,7,4403,African American,Male,40,0,0,6,306,felony,7,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+333,334,7,5114,Caucasian,Male,50,0,0,26,306,felony,7,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+334,335,7,1032,Hispanic,Male,29,0,0,7,129,felony,9,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+335,336,7,3552,Caucasian,Male,28,0,0,0,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+336,337,7,2072,Caucasian,Female,66,0,0,1,402,misdemeanor,1,0,Tresspass Struct/Conveyance,Trespassing,"Willfully entering or remaining on some form of real property without authorization, license, or invitation"
+337,338,7,5057,African American,Female,49,0,0,1,172,felony,1,0,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+338,339,7,3783,Caucasian,Male,38,0,0,0,169,felony,1,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+339,340,7,3574,African American,Male,24,0,0,2,163,felony,3,1,False Ownership Info/Pawn Item,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+340,341,7,5263,African American,Male,19,2,1,3,71,felony,10,1,Carrying Concealed Firearm,Carrying a Concealed Weapon,"When a person knowingly carries, on or about their person, a weapon that is concealed from the ordinary sight of another person"
+341,342,7,9921,African American,Male,27,0,0,1,65,misdemeanor,5,0,Burglary Unoccupied Dwelling,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+342,343,7,8171,Caucasian,Male,38,0,0,0,374,misdemeanor,2,0,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+343,344,7,7605,African American,Male,49,0,0,1,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+344,345,7,7012,African American,Male,28,0,0,0,246,felony,2,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+345,346,7,4655,Caucasian,Male,31,0,0,10,283,misdemeanor,8,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+346,347,7,7245,African American,Male,25,0,0,5,45,misdemeanor,8,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+347,348,7,10540,Caucasian,Female,31,0,0,1,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+348,349,7,9801,African American,Male,25,0,0,4,239,misdemeanor,5,0,Operating W/O Valid License,Operating a Vehicle without a Valid Drivers License,Operating a motor vehicle without a valid drivers license
+349,350,7,7468,Caucasian,Male,42,0,0,2,110,felony,7,1,Deliver Cannabis,Dealing Cannabis/Marijuana,Possessing cannabis with the intent to sell or deliver the cannabis
+350,351,8,8045,Caucasian,Male,23,0,0,6,297,felony,9,1,Possession Of Alprazolam,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+351,352,8,10836,African American,Male,25,0,0,3,129,felony,6,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+352,353,8,4436,African American,Male,23,0,0,4,251,felony,10,1,Poss Cntrft Contr Sub w/Intent,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+353,354,8,3483,Caucasian,Male,39,0,0,0,423,misdemeanor,1,0,Viol Injunct Domestic Violence,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+354,355,8,2396,Caucasian,Female,57,0,0,0,122,misdemeanor,4,0,Disorderly Conduct,Disorderly Conduct,"Commiting an act that corrupts the public morals, outrages the sense of public decency, or affects the peace and quiet of persons who may witness them, or engages in brawling, fightin, or other conduct that constitutes a breach of the peace"
+355,356,8,6205,African American,Male,53,0,0,15,172,felony,1,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+356,357,8,1904,African American,Male,32,0,0,1,172,felony,4,0,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+357,358,8,6443,Caucasian,Male,28,0,0,5,129,felony,5,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+358,359,8,765,African American,Male,66,0,0,33,90,felony,6,1,Crimin Mischief Damage $1000+,Criminal Damage of more than $1000,"When a person willfully and maliciously damages another person's property - with damage of more than $1,000"
+359,360,8,2121,African American,Female,28,0,0,4,280,felony,4,0,"Poss3,4 Methylenedioxymethcath",Possession of Ecstasy,Possession of Ecstasy
+360,361,8,189,Caucasian,Male,52,0,0,3,45,misdemeanor,9,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+361,362,8,7788,African American,Male,33,0,0,7,190,felony,6,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+362,363,8,5485,African American,Male,22,0,0,0,92,felony,8,1,Criminal Mischief,Criminal Damage of less than $1000,"When a person willfully and maliciously damages another person's property - with damage less than $1,000"
+363,364,8,8526,African American,Female,26,0,0,0,342,misdemeanor,9,0,Robbery / No Weapon,Robbery,"When a person intentionally and unlawfully takes money or property from another person through the use of force, violence, assault, or threat"
+364,365,8,1796,African American,Male,21,0,0,0,58,felony,3,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+365,366,8,2078,Caucasian,Male,43,0,0,4,61,felony,5,1,Burglary Dwelling Occupied,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+366,367,8,10498,Caucasian,Female,65,0,0,1,15,felony,1,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+367,368,8,4255,Caucasian,Male,27,0,0,0,246,felony,5,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+368,369,8,10499,Caucasian,Female,28,0,0,5,306,felony,9,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+369,370,8,7914,Caucasian,Male,55,0,0,0,133,misdemeanor,1,0,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+370,371,8,265,African American,Male,28,0,0,6,337,misdemeanor,6,1,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+371,372,8,7445,Hispanic,Male,31,0,0,1,21,felony,8,1,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+372,373,8,763,Hispanic,Male,26,0,0,7,15,felony,5,1,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+373,374,8,6658,African American,Male,39,0,0,0,274,felony,4,1,Poss Unlaw Issue Id,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+374,375,8,9832,Caucasian,Male,25,0,0,1,45,misdemeanor,4,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+375,376,8,7257,Caucasian,Male,24,0,0,1,246,felony,3,1,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+376,377,8,9031,African American,Male,27,0,0,21,268,felony,7,1,Poss Pyrrolidinovalerophenone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+377,378,8,956,African American,Male,24,0,0,4,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+378,379,8,4076,African American,Male,33,0,0,6,246,felony,6,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+379,380,8,8278,African American,Male,53,0,0,3,18,felony,6,1,Aggravated Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+380,381,8,7754,Caucasian,Male,25,0,0,2,128,misdemeanor,4,1,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+381,382,8,7340,Caucasian,Female,31,0,0,0,186,felony,4,1,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+382,383,8,5224,African American,Male,25,0,0,0,277,felony,8,1,Poss/Sell/Del Cocaine 1000FT Sch,Possession of Cocaine,Possession of cocaine
+383,384,8,1834,Caucasian,Male,31,0,0,0,107,felony,4,0,Del of JWH-250 2-Methox 1-Pentyl,Dealing Controlled Substances,Possessing a criminalized narcotic or pharmacological drug with the intent to sell or deliver
+384,385,8,829,Caucasian,Male,22,1,0,6,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+385,386,8,9488,Caucasian,Male,21,0,0,0,45,misdemeanor,4,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+386,387,8,9747,African American,Male,32,0,0,4,65,felony,4,1,Burglary Unoccupied Dwelling,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+387,388,8,5354,African American,Male,24,0,0,1,328,misdemeanor,9,1,Prowling/Loitering,Loitering,"Standing or waiting around idly in a manner unusual for law-abiding citizens, creating an imminent threat to public safety"
+388,389,8,122,African American,Male,30,0,0,8,283,misdemeanor,10,1,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+389,390,8,7723,Hispanic,Male,24,0,0,0,57,felony,2,0,Burglary Conveyance Occupied,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+390,391,8,363,Caucasian,Male,44,0,0,8,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+391,392,8,4730,Caucasian,Male,20,0,0,1,192,felony,2,1,Grand Theft of the 2nd Degree,Grand Theft,The unlawful taking of property worth more than $300
+392,393,8,3056,African American,Male,25,0,0,0,273,felony,3,0,Poss Unlaw Issue Driver Licenc,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+393,394,8,3146,Hispanic,Male,37,0,0,0,377,felony,3,1,Tamper With Witness/Victim/CI,Tampering with a Witness,The act of attempting to alter or prevent the testimony of witnesses within criminal or civil proceedings
+394,395,8,8835,African American,Male,29,0,0,3,283,misdemeanor,1,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+395,396,8,3761,African American,Male,42,0,0,7,169,felony,5,1,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+396,397,8,8036,Hispanic,Male,42,0,0,1,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+397,398,8,10979,African American,Male,43,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+398,399,8,5553,Caucasian,Male,22,0,0,0,6,felony,3,0,Agg Battery Grt/Bod/Harm,Battery,Intentionally causing bodily harm to another person without a weapon
+399,400,8,3585,Caucasian,Male,54,0,0,1,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+400,401,9,8306,African American,Male,43,0,0,15,337,misdemeanor,9,1,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+401,402,9,5074,African American,Male,33,0,0,1,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+402,403,9,8791,Caucasian,Female,29,0,0,0,45,misdemeanor,6,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+403,404,9,2567,Caucasian,Male,38,0,0,1,45,misdemeanor,6,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+404,405,9,10369,Hispanic,Male,29,0,0,1,6,felony,1,0,Agg Battery Grt/Bod/Harm,Battery,Intentionally causing bodily harm to another person without a weapon
+405,406,9,5342,Caucasian,Male,47,0,0,3,242,misdemeanor,5,0,Petit Theft,Theft,The taking of another person's property worth less than $300
+406,407,9,5600,African American,Male,25,0,0,0,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+407,408,9,6916,African American,Male,23,0,0,1,190,felony,6,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+408,409,9,5420,African American,Male,22,0,0,2,297,felony,4,1,Possession Of Alprazolam,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+409,410,9,8292,African American,Male,28,0,8,12,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+410,411,9,1689,Caucasian,Male,54,0,0,3,239,misdemeanor,1,1,Operating W/O Valid License,Operating a Vehicle without a Valid Drivers License,Operating a motor vehicle without a valid drivers license
+411,412,9,8118,African American,Male,34,0,0,4,283,misdemeanor,6,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+412,413,9,7323,African American,Male,41,0,0,19,104,felony,5,1,Del Cannabis At/Near Park,Dealing Cannabis/Marijuana,Possessing cannabis with the intent to sell or deliver the cannabis
+413,414,9,10652,African American,Male,33,0,0,3,336,misdemeanor,6,1,Resist Officer w/Violence,Resisting an Officer with Violence,"When a person knowingly and willfully resists, obstructs, or opposes a law enforcement officer by threatening violence or engaging in violent conduct against the law enforcement officer was engaged in the lawful execution of a legal duty"
+414,415,9,10925,Caucasian,Male,26,0,0,3,374,misdemeanor,2,1,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+415,416,9,8259,African American,Male,58,0,0,0,169,felony,1,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+416,417,9,1212,African American,Female,24,0,0,1,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+417,418,9,5670,Caucasian,Male,18,5,0,4,58,felony,8,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+418,419,9,8705,African American,Female,22,0,0,4,306,felony,9,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+419,420,9,9367,African American,Female,25,0,0,7,170,felony,9,1,Felony Battery w/Prior Convict,Battery,Intentionally causing bodily harm to another person without a weapon
+420,421,9,8847,African American,Female,39,0,0,3,418,felony,5,1,Uttering a Forged Instrument,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+421,422,9,10985,African American,Male,30,0,1,19,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+422,423,9,1559,Caucasian,Male,24,1,2,3,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+423,424,9,9055,Hispanic,Female,21,0,0,0,45,misdemeanor,4,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+424,425,9,7178,African American,Male,43,0,0,7,85,felony,6,1,Corrupt Public Servant,Threatening a Public Servant,
+425,426,9,8891,Caucasian,Male,56,0,0,17,85,felony,4,1,Corrupt Public Servant,Threatening a Public Servant,
+426,427,9,5821,Caucasian,Male,31,0,0,3,45,misdemeanor,5,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+427,428,9,3298,Caucasian,Male,31,0,0,6,45,misdemeanor,5,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+428,429,9,5745,African American,Male,29,0,0,2,190,felony,3,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+429,430,9,9811,African American,Female,25,0,0,5,6,felony,9,1,Agg Battery Grt/Bod/Harm,Battery,Intentionally causing bodily harm to another person without a weapon
+430,431,9,5370,African American,Male,23,0,0,1,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+431,432,9,10167,African American,Male,24,0,0,2,313,felony,6,1,Possession of Hydromorphone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+432,433,9,919,Hispanic,Male,36,0,0,1,243,misdemeanor,10,1,Petit Theft $100- $300,Theft,The taking of another person's property worth less than $300
+433,434,9,9534,African American,Male,49,0,0,29,172,felony,6,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+434,435,9,9746,Hispanic,Male,23,0,0,0,283,misdemeanor,7,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+435,436,9,6595,African American,Male,40,0,0,0,18,felony,1,0,Aggravated Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+436,437,9,6862,African American,Male,31,0,0,5,97,felony,4,0,Cruelty Toward Child,Child Abuse,Intentional infliction of physical or mental injury upon a child
+437,438,9,807,Caucasian,Male,23,0,0,0,45,misdemeanor,9,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+438,439,9,4441,Caucasian,Female,54,0,0,1,337,misdemeanor,2,0,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+439,440,9,9040,African American,Male,34,0,0,3,21,felony,1,0,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+440,441,9,5096,African American,Female,38,0,0,0,426,misdemeanor,4,0,Viol Prot Injunc Repeat Viol,Restraining Order Violation,Violating the terms of a restraining order
+441,442,9,730,Asian,Male,35,0,0,0,64,felony,6,0,Burglary Structure Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+442,443,9,9852,African American,Male,21,0,2,2,190,felony,10,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+443,444,9,8253,African American,Male,29,0,0,0,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+444,445,9,9163,African American,Male,31,1,1,12,337,misdemeanor,8,1,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+445,446,9,2780,Caucasian,Male,58,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+446,447,9,4510,Caucasian,Male,54,0,0,2,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+447,448,9,2405,African American,Female,24,0,0,0,167,felony,3,0,Felony Batt(Great Bodily Harm),Battery,Intentionally causing bodily harm to another person without a weapon
+448,449,9,1446,Caucasian,Male,35,0,0,2,74,felony,1,0,Child Abuse,Child Abuse,Intentional infliction of physical or mental injury upon a child
+449,450,9,1314,African American,Male,31,0,3,25,337,misdemeanor,8,1,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+450,451,10,6360,Caucasian,Male,39,0,0,0,306,felony,3,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+451,452,10,1841,Caucasian,Female,37,0,0,1,128,misdemeanor,3,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+452,453,10,657,African American,Female,24,0,0,3,190,felony,10,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+453,454,10,6449,African American,Male,51,0,0,11,243,misdemeanor,5,1,Petit Theft $100- $300,Theft,The taking of another person's property worth less than $300
+454,455,10,3055,African American,Male,61,0,0,5,306,felony,2,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+455,456,10,9831,Hispanic,Male,29,0,0,0,122,misdemeanor,2,1,Disorderly Conduct,Disorderly Conduct,"Commiting an act that corrupts the public morals, outrages the sense of public decency, or affects the peace and quiet of persons who may witness them, or engages in brawling, fightin, or other conduct that constitutes a breach of the peace"
+456,457,10,5372,African American,Female,29,0,0,0,190,felony,2,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+457,458,10,8863,Hispanic,Male,31,0,0,5,89,felony,6,1,Crim Use of Personal ID Info,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+458,459,10,2687,Caucasian,Male,54,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+459,460,10,8563,Hispanic,Male,27,0,0,1,239,misdemeanor,2,0,Operating W/O Valid License,Operating a Vehicle without a Valid Drivers License,Operating a motor vehicle without a valid drivers license
+460,461,10,4748,African American,Female,30,0,0,0,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+461,462,10,4524,Caucasian,Male,20,0,0,0,190,felony,4,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+462,463,10,5968,Caucasian,Male,57,0,0,9,306,felony,4,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+463,464,10,4520,African American,Female,30,0,0,3,172,felony,6,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+464,465,10,5673,African American,Male,32,0,0,10,172,felony,6,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+465,466,10,3084,African American,Female,50,0,0,7,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+466,467,10,1522,African American,Male,23,0,0,2,45,misdemeanor,7,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+467,468,10,9495,Hispanic,Male,21,0,1,2,61,felony,7,1,Burglary Dwelling Occupied,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+468,469,10,5249,African American,Male,28,0,0,0,236,felony,4,0,Offn Against Intellectual Prop,Offense Against Intellectual Property,"Robbing people or companies of their ideas, inventions, and creative expressionsÑknown as Òintellectual propertyÓÑwhich can include everything from trade secrets and proprietary products and parts to movies, music, and software"
+469,470,10,2400,African American,Male,30,0,2,11,372,felony,8,0,Strong Armed  Robbery,Armed Robbery,"When a person intentionally and unlawfully takes money or property from another person through the use of force, violence, assault, or threat while in possession of a firearm or other deadly weapon"
+470,471,10,5369,African American,Male,45,0,0,0,199,misdemeanor,1,0,Interfere W/Traf Cont Dev RR,Interference with Traffic Control Railroad Divide,Unlawfully interfering with a railroad divide
+471,472,10,10807,Caucasian,Male,25,0,0,3,127,misdemeanor,9,1,Driving License Suspended,Driving with a Suspended License,Driving with a license that has been suspended
+472,473,10,4870,Caucasian,Male,24,0,0,1,93,misdemeanor,2,0,Criminal Mischief Damage <$200,Criminal Damage of less than $1000,"When a person willfully and maliciously damages another person's property - with damage less than $1,000"
+473,474,10,2165,African American,Male,53,0,0,0,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+474,475,10,3641,Caucasian,Male,26,0,0,0,45,misdemeanor,6,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+475,476,10,8471,African American,Male,23,0,0,2,58,felony,4,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+476,477,10,4182,Caucasian,Male,32,0,0,0,317,felony,5,0,Possession Of Methamphetamine,Possession of Meth,Possession of Meth
+477,478,10,5623,Caucasian,Male,32,0,0,0,242,misdemeanor,6,1,Petit Theft,Theft,The taking of another person's property worth less than $300
+478,479,10,7148,Hispanic,Male,45,0,0,8,15,felony,7,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+479,480,10,4754,African American,Male,47,0,0,1,306,felony,1,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+480,481,10,6690,African American,Male,25,0,1,7,336,felony,10,1,Resist Officer w/Violence,Resisting an Officer with Violence,"When a person knowingly and willfully resists, obstructs, or opposes a law enforcement officer by threatening violence or engaging in violent conduct against the law enforcement officer was engaged in the lawful execution of a legal duty"
+481,482,10,5069,African American,Male,24,1,0,2,326,misdemeanor,10,1,Prostitution/Lewd Act Assignation,Prostitution,Engaging in sex for money
+482,483,10,22,African American,Male,25,0,0,3,190,felony,10,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+483,484,10,5563,Caucasian,Male,33,0,0,0,306,felony,6,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+484,485,10,10949,African American,Male,19,1,0,1,190,felony,9,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+485,486,10,208,Caucasian,Male,44,0,0,2,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+486,487,10,1300,Caucasian,Female,21,0,0,0,283,misdemeanor,5,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+487,488,10,7847,Caucasian,Male,30,0,0,0,130,misdemeanor,1,0,DUI - Enhanced,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+488,489,10,4593,Asian,Male,38,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+489,490,10,2841,Caucasian,Male,24,0,1,3,133,misdemeanor,5,0,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+490,491,10,7099,African American,Male,34,0,0,2,303,felony,2,0,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+491,492,10,3110,Caucasian,Male,21,0,0,0,45,misdemeanor,4,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+492,493,10,3952,Caucasian,Male,37,0,0,0,134,misdemeanor,4,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+493,494,10,9229,African American,Male,22,0,0,0,45,misdemeanor,8,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+494,495,10,3255,African American,Male,51,0,0,4,374,misdemeanor,2,0,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+495,496,10,1718,African American,Male,25,0,1,11,190,felony,9,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+496,497,10,480,African American,Male,20,0,0,0,190,felony,9,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+497,498,10,8438,Caucasian,Female,34,0,0,12,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+498,499,10,10136,African American,Male,34,0,0,2,71,felony,3,1,Carrying Concealed Firearm,Carrying a Concealed Weapon,"When a person knowingly carries, on or about their person, a weapon that is concealed from the ordinary sight of another person"
+499,500,10,5387,African American,Male,34,0,0,0,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+500,501,11,8534,Caucasian,Female,44,0,0,10,171,felony,5,1,Felony Committing Prostitution,Prostitution,Engaging in sex for money
+501,502,11,8403,African American,Male,19,0,0,0,336,felony,4,1,Resist Officer w/Violence,Resisting an Officer with Violence,"When a person knowingly and willfully resists, obstructs, or opposes a law enforcement officer by threatening violence or engaging in violent conduct against the law enforcement officer was engaged in the lawful execution of a legal duty"
+502,503,11,6668,African American,Male,29,0,0,0,122,misdemeanor,2,1,Disorderly Conduct,Disorderly Conduct,"Commiting an act that corrupts the public morals, outrages the sense of public decency, or affects the peace and quiet of persons who may witness them, or engages in brawling, fightin, or other conduct that constitutes a breach of the peace"
+503,504,11,9172,African American,Male,21,0,0,0,306,felony,7,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+504,505,11,3950,Caucasian,Male,38,0,0,3,306,felony,9,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+505,506,11,1191,Caucasian,Male,22,0,0,0,58,felony,4,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+506,507,11,8939,African American,Female,26,0,0,1,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+507,508,11,2907,African American,Male,22,0,0,3,167,felony,6,1,Felony Batt(Great Bodily Harm),Battery,Intentionally causing bodily harm to another person without a weapon
+508,509,11,2152,African American,Female,42,0,0,2,66,felony,2,0,Burglary With Assault/battery,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+509,510,11,266,Hispanic,Male,54,0,0,2,65,felony,1,0,Burglary Unoccupied Dwelling,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+510,511,11,7508,Hispanic,Male,44,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+511,512,11,5506,Caucasian,Male,24,0,0,3,21,felony,5,1,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+512,513,11,2638,Caucasian,Male,23,0,0,0,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+513,514,11,3412,Caucasian,Male,25,0,0,0,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+514,515,11,5689,Caucasian,Male,22,0,0,1,186,felony,4,0,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+515,516,11,8565,African American,Male,30,0,0,13,168,felony,10,1,Felony Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+516,517,11,10703,African American,Male,43,0,1,23,114,felony,7,0,Deliver Cocaine 1000FT Park,Dealing Cocaine,Possessing cocaine with the intent to sell or deliver the cocaine
+517,518,11,7247,African American,Female,24,0,0,2,57,felony,5,1,Burglary Conveyance Occupied,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+518,519,11,6339,African American,Male,49,0,0,11,426,misdemeanor,5,1,Viol Prot Injunc Repeat Viol,Restraining Order Violation,Violating the terms of a restraining order
+519,520,11,469,African American,Male,20,0,0,0,186,felony,10,1,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+520,521,11,8258,African American,Male,26,0,0,6,55,felony,7,1,Burglary Conveyance Armed,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+521,522,11,10169,Caucasian,Male,33,0,0,0,283,misdemeanor,7,1,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+522,523,11,2898,Caucasian,Female,31,0,0,0,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+523,524,11,8777,Caucasian,Male,21,0,0,1,56,felony,4,0,Burglary Conveyance Assault/Bat,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+524,525,11,9484,Caucasian,Female,41,0,0,1,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+525,526,11,648,African American,Male,57,0,0,1,175,felony,5,1,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+526,527,11,1611,African American,Male,47,0,0,4,306,felony,3,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+527,528,11,4835,African American,Male,37,0,0,1,175,felony,10,0,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+528,529,11,3293,Caucasian,Female,27,0,0,0,303,felony,3,0,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+529,530,11,10317,African American,Male,62,0,0,0,133,misdemeanor,1,0,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+530,531,11,1157,Native American,Male,27,0,0,3,133,misdemeanor,7,0,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+531,532,11,4165,African American,Male,22,0,0,0,35,felony,7,0,Att Burgl Unoccupied Dwel,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+532,533,11,279,Hispanic,Male,57,0,0,1,129,felony,1,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+533,534,11,9971,Caucasian,Female,55,0,0,0,47,felony,1,0,Battery on a Person Over 65,Battery,Intentionally causing bodily harm to another person without a weapon
+534,535,11,9380,Caucasian,Male,38,0,0,5,129,felony,4,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+535,536,11,10931,Hispanic,Male,28,0,0,1,344,felony,3,0,Robbery Sudd Snatch No Weapon,Robbery,"When a person intentionally and unlawfully takes money or property from another person through the use of force, violence, assault, or threat"
+536,537,11,4694,Caucasian,Male,44,0,0,2,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+537,538,11,10492,Hispanic,Female,25,0,1,14,65,felony,6,0,Burglary Unoccupied Dwelling,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+538,539,11,6687,Caucasian,Male,39,0,0,10,190,felony,8,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+539,540,11,10267,African American,Female,31,0,0,4,10,felony,8,0,Aggrav Battery w/Deadly Weapon,Battery with a Deadly Weapon,Intentionally causing bodily harm to another person with a deadly weapon
+540,541,11,8642,Caucasian,Male,61,0,0,4,418,felony,6,0,Uttering a Forged Instrument,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+541,542,11,3347,African American,Female,36,0,0,7,92,felony,3,1,Criminal Mischief,Criminal Damage of less than $1000,"When a person willfully and maliciously damages another person's property - with damage less than $1,000"
+542,543,11,4139,African American,Male,35,0,1,14,45,misdemeanor,8,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+543,544,11,3562,African American,Male,52,0,0,0,367,felony,1,0,Solicitation On Felony 3 Deg,Soliciting For Prostitution,"When a person solicits, induces, entices, or procures another person to engage in prostitution, lewdness, or assignation"
+544,545,11,10560,Caucasian,Male,41,0,0,1,10,felony,1,1,Aggrav Battery w/Deadly Weapon,Battery with a Deadly Weapon,Intentionally causing bodily harm to another person with a deadly weapon
+545,546,11,9685,African American,Male,22,0,0,0,45,misdemeanor,7,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+546,547,11,8014,African American,Male,52,0,0,7,190,misdemeanor,3,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+547,548,11,6164,African American,Female,37,0,0,1,66,felony,1,0,Burglary With Assault/battery,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+548,549,11,10580,Caucasian,Female,22,0,0,1,425,misdemeanor,8,0,Viol Pretrial Release Dom Viol,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+549,550,11,5939,Caucasian,Male,45,0,0,2,306,felony,1,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+550,551,12,9563,Caucasian,Male,22,0,0,1,367,felony,6,0,Solicitation On Felony 3 Deg,Soliciting For Prostitution,"When a person solicits, induces, entices, or procures another person to engage in prostitution, lewdness, or assignation"
+551,552,12,603,African American,Male,29,1,0,2,21,felony,5,0,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+552,553,12,1467,African American,Male,29,0,0,10,110,felony,7,1,Deliver Cannabis,Dealing Cannabis/Marijuana,Possessing cannabis with the intent to sell or deliver the cannabis
+553,554,12,2959,African American,Male,26,0,0,2,45,misdemeanor,7,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+554,555,12,2543,African American,Male,37,2,3,24,66,felony,8,0,Burglary With Assault/battery,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+555,556,12,9303,African American,Male,30,0,0,0,127,misdemeanor,9,0,Driving License Suspended,Driving with a Suspended License,Driving with a license that has been suspended
+556,557,12,8107,Caucasian,Female,49,0,0,1,208,misdemeanor,1,0,Leaving Acc/Unattended Veh,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+557,558,12,2917,Caucasian,Male,26,0,0,3,243,misdemeanor,4,0,Petit Theft $100- $300,Theft,The taking of another person's property worth less than $300
+558,559,12,4940,African American,Male,34,0,0,9,246,felony,10,1,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+559,560,12,2140,Caucasian,Female,59,0,0,1,189,felony,1,0,Grand Theft in the 1st Degree,Grand Theft,The unlawful taking of property worth more than $300
+560,561,12,1615,Caucasian,Female,38,0,0,0,74,felony,1,0,Child Abuse,Child Abuse,Intentional infliction of physical or mental injury upon a child
+561,562,12,8308,African American,Male,27,1,0,6,203,felony,7,1,Issuing a Worthless Draft,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+562,563,12,9953,African American,Male,23,0,0,1,190,felony,3,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+563,564,12,6769,Caucasian,Female,40,0,0,0,306,felony,2,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+564,565,12,5635,Caucasian,Female,52,0,0,3,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+565,566,12,7427,African American,Male,27,0,0,8,93,misdemeanor,8,0,Criminal Mischief Damage <$200,Criminal Damage of less than $1000,"When a person willfully and maliciously damages another person's property - with damage less than $1,000"
+566,567,12,887,African American,Male,30,0,0,5,129,felony,6,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+567,568,12,7987,Caucasian,Male,29,4,1,10,58,felony,9,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+568,569,12,3182,African American,Male,25,0,0,2,246,felony,5,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+569,570,12,163,Caucasian,Male,43,0,0,1,306,felony,1,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+570,571,12,3022,African American,Male,35,0,0,4,45,misdemeanor,5,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+571,572,12,8885,African American,Male,22,0,1,1,49,felony,8,1,Battery on Law Enforc Officer,Battery,Intentionally causing bodily harm to another person without a weapon
+572,573,12,2456,Caucasian,Male,43,0,0,9,312,felony,6,0,Possession of Hydrocodone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+573,574,12,4371,Caucasian,Male,57,0,0,0,328,misdemeanor,1,0,Prowling/Loitering,Loitering,"Standing or waiting around idly in a manner unusual for law-abiding citizens, creating an imminent threat to public safety"
+574,575,12,8929,Hispanic,Male,30,0,0,1,129,felony,2,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+575,576,12,4701,Caucasian,Male,38,0,0,17,175,felony,10,0,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+576,577,12,3508,African American,Female,20,0,0,0,190,felony,5,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+577,578,12,4643,African American,Male,32,0,1,12,45,misdemeanor,10,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+578,579,12,1943,African American,Male,24,0,0,0,292,felony,3,1,Possession Burglary Tools,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+579,580,12,5454,Caucasian,Female,25,0,0,0,313,felony,4,1,Possession of Hydromorphone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+580,581,12,1629,African American,Male,27,0,0,2,6,felony,5,0,Agg Battery Grt/Bod/Harm,Battery,Intentionally causing bodily harm to another person without a weapon
+581,582,12,9785,Caucasian,Male,47,0,0,0,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+582,583,12,215,African American,Male,31,0,0,1,215,misdemeanor,2,0,Lewdness Violation,Child Molestation,"Intentionally touching the breasts, genitals, or buttocks of a child younger than 16 in a lewd or lascivious manner"
+583,584,12,7640,Caucasian,Male,37,0,0,1,306,felony,7,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+584,585,12,4186,Caucasian,Male,59,0,0,0,297,felony,1,0,Possession Of Alprazolam,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+585,586,12,9597,Caucasian,Male,22,0,0,0,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+586,587,12,9523,African American,Male,30,0,0,2,306,felony,5,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+587,588,12,4881,African American,Male,31,0,0,0,112,felony,6,0,Deliver Cocaine,Dealing Cocaine,Possessing cocaine with the intent to sell or deliver the cocaine
+588,589,12,6000,African American,Female,23,0,0,0,292,felony,5,1,Possession Burglary Tools,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+589,590,12,7234,Hispanic,Male,37,0,0,1,190,felony,5,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+590,591,12,7675,Caucasian,Male,20,0,0,0,209,felony,7,1,Leaving the Scene of Accident,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+591,592,12,9246,Caucasian,Female,55,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+592,593,12,6574,African American,Female,31,0,0,2,15,felony,2,1,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+593,594,12,10656,African American,Male,20,0,0,0,65,felony,4,0,Burglary Unoccupied Dwelling,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+594,595,12,10935,Hispanic,Male,31,1,0,7,374,misdemeanor,9,1,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+595,596,12,2765,African American,Female,26,0,0,0,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+596,597,12,5678,African American,Male,38,0,1,16,260,felony,9,1,Poss of Cocaine W/I/D/S 1000FT Park,Possession of Cocaine,Possession of cocaine
+597,598,12,7112,African American,Male,55,0,0,10,45,misdemeanor,7,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+598,599,12,1578,Caucasian,Male,39,0,0,1,224,felony,1,0,Money Launder 100K or More Dols,Money Laundering,
+599,600,12,510,Hispanic,Male,51,0,0,1,31,misdemeanor,1,0,Assault,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+600,601,13,8285,African American,Male,28,0,0,8,45,misdemeanor,6,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+601,602,13,5535,Caucasian,Male,21,0,0,1,58,felony,6,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+602,603,13,210,African American,Male,32,0,0,3,306,felony,7,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+603,604,13,10243,Hispanic,Female,29,0,0,0,122,misdemeanor,3,0,Disorderly Conduct,Disorderly Conduct,"Commiting an act that corrupts the public morals, outrages the sense of public decency, or affects the peace and quiet of persons who may witness them, or engages in brawling, fightin, or other conduct that constitutes a breach of the peace"
+604,605,13,5128,Hispanic,Male,39,0,0,1,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+605,606,13,1244,Caucasian,Male,47,0,0,2,377,felony,4,0,Tamper With Witness/Victim/CI,Tampering with a Witness,The act of attempting to alter or prevent the testimony of witnesses within criminal or civil proceedings
+606,607,13,7962,African American,Female,41,0,0,0,18,felony,1,0,Aggravated Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+607,608,13,5921,Caucasian,Male,52,0,0,4,426,misdemeanor,3,1,Viol Prot Injunc Repeat Viol,Restraining Order Violation,Violating the terms of a restraining order
+608,609,13,2484,Caucasian,Male,50,0,0,0,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+609,610,13,7488,African American,Male,21,0,0,0,18,felony,8,1,Aggravated Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+610,611,13,2446,Caucasian,Male,23,0,0,0,15,felony,3,1,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+611,612,13,6661,Caucasian,Male,24,0,0,0,303,felony,2,0,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+612,613,13,8000,African American,Female,26,0,0,1,10,felony,3,1,Aggrav Battery w/Deadly Weapon,Battery with a Deadly Weapon,Intentionally causing bodily harm to another person with a deadly weapon
+613,614,13,6570,Caucasian,Male,47,0,0,2,306,felony,4,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+614,615,13,7581,African American,Male,27,0,0,0,74,misdemeanor,1,1,Child Abuse,Child Abuse,Intentional infliction of physical or mental injury upon a child
+615,616,13,10449,African American,Female,51,0,0,3,379,misdemeanor,2,0,Tampering With Physical Evidence,Tampering With Physical Evidence,"When a person alters, destroys, suppresses or conceals any record, document or thing with purpose to impair its verity, legibility or availability in any official proceeding or investigation"
+616,617,13,2654,African American,Male,27,0,0,3,207,misdemeanor,7,0,Leave Accd/Attend Veh/Less $50,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+617,618,13,9392,Caucasian,Male,53,0,0,1,45,misdemeanor,5,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+618,619,13,1874,Caucasian,Female,28,0,0,1,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+619,620,13,4612,Caucasian,Male,31,0,0,4,175,felony,7,1,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+620,621,13,8761,Caucasian,Male,32,0,0,4,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+621,622,13,2865,African American,Male,22,0,0,2,89,felony,4,1,Crim Use of Personal ID Info,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+622,623,13,366,Caucasian,Male,22,0,0,1,430,misdemeanor,8,1,Voyeurism,Voyeurism,
+623,624,13,3113,Hispanic,Male,34,0,0,2,416,felony,3,1,Use of Anti-Shoplifting Device,Shoplifting,
+624,625,13,7381,African American,Female,43,0,0,0,190,felony,6,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+625,626,13,1144,African American,Female,29,0,0,3,306,felony,5,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+626,627,13,7821,Caucasian,Male,30,0,0,1,310,felony,8,0,Possession Of Fentanyl,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+627,628,13,4933,African American,Male,37,0,0,14,129,felony,8,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+628,629,13,5727,African American,Male,40,0,0,21,168,felony,5,0,Felony Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+629,630,13,4476,African American,Male,60,0,0,19,306,felony,8,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+630,631,13,10975,African American,Male,25,0,0,1,167,felony,2,0,Felony Batt(Great Bodily Harm),Battery,Intentionally causing bodily harm to another person without a weapon
+631,632,13,5138,Caucasian,Male,21,0,0,0,303,felony,7,1,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+632,633,13,9745,African American,Male,23,0,0,2,392,misdemeanor,7,1,Trespass On School Grounds,Trespassing,"Willfully entering or remaining on some form of real property without authorization, license, or invitation"
+633,634,13,4834,African American,Female,27,0,0,3,342,felony,5,0,Robbery / No Weapon,Robbery,"When a person intentionally and unlawfully takes money or property from another person through the use of force, violence, assault, or threat"
+634,635,13,2681,African American,Male,43,0,0,1,344,felony,3,0,Robbery Sudd Snatch No Weapon,Robbery,"When a person intentionally and unlawfully takes money or property from another person through the use of force, violence, assault, or threat"
+635,636,13,10686,Caucasian,Male,36,0,0,0,404,felony,1,0,Unauth Poss ID Card or DL,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+636,637,13,6631,African American,Male,43,0,0,0,418,felony,5,1,Uttering a Forged Instrument,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+637,638,13,8794,Caucasian,Female,30,0,0,1,129,felony,2,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+638,639,13,8355,African American,Male,28,0,0,2,246,felony,4,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+639,640,13,3488,Caucasian,Male,36,0,0,2,280,felony,1,0,"Poss3,4 Methylenedioxymethcath",Possession of Ecstasy,Possession of Ecstasy
+640,641,13,10643,African American,Male,22,0,0,0,337,misdemeanor,10,0,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+641,642,13,1682,Caucasian,Male,40,0,0,3,172,felony,1,0,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+642,643,13,1530,Hispanic,Male,69,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+643,644,13,6022,Caucasian,Male,58,0,0,5,190,felony,3,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+644,645,13,3480,African American,Male,53,0,0,1,134,misdemeanor,2,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+645,646,13,3636,African American,Female,54,0,0,7,183,felony,6,0,Fraudulent Use of Credit Card,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+646,647,13,8264,African American,Male,30,0,0,1,49,felony,3,1,Battery on Law Enforc Officer,Battery,Intentionally causing bodily harm to another person without a weapon
+647,648,13,2519,African American,Male,32,1,3,24,129,felony,7,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+648,649,13,9041,Caucasian,Male,36,0,0,0,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+649,650,13,9475,African American,Male,31,0,0,1,129,felony,1,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+650,651,14,4335,African American,Male,37,0,0,0,306,felony,9,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+651,652,14,3925,African American,Male,22,0,0,0,58,felony,3,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+652,653,14,7607,African American,Female,23,0,0,1,10,felony,3,0,Aggrav Battery w/Deadly Weapon,Battery with a Deadly Weapon,Intentionally causing bodily harm to another person with a deadly weapon
+653,654,14,2766,African American,Male,28,0,0,8,190,felony,8,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+654,655,14,8379,Asian,Male,76,0,0,0,16,felony,1,0,Aggravated Assault w/Firearm,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+655,656,14,2220,African American,Male,52,0,0,15,128,misdemeanor,4,1,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+656,657,14,3337,African American,Male,32,0,0,14,172,felony,8,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+657,658,14,7355,Caucasian,Female,35,0,0,2,128,misdemeanor,3,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+658,659,14,1250,African American,Male,35,0,0,13,306,felony,8,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+659,660,14,5634,Caucasian,Male,39,0,0,0,179,felony,1,0,Fleeing Or Attmp Eluding A Leo,Fleeing a Law Enforcement Officer,
+660,661,14,98,African American,Male,27,0,1,6,21,felony,6,1,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+661,662,14,6320,African American,Male,39,0,0,21,129,felony,10,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+662,663,14,1604,African American,Male,36,0,0,4,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+663,664,14,8681,African American,Male,33,0,0,12,379,felony,9,1,Tampering With Physical Evidence,Tampering With Physical Evidence,"When a person alters, destroys, suppresses or conceals any record, document or thing with purpose to impair its verity, legibility or availability in any official proceeding or investigation"
+664,665,14,1325,African American,Female,52,0,0,0,16,felony,1,0,Aggravated Assault w/Firearm,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+665,666,14,8140,African American,Male,31,3,0,16,129,felony,10,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+666,667,14,2537,African American,Female,27,0,0,0,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+667,668,14,8239,African American,Male,28,0,0,7,190,felony,10,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+668,669,14,3818,African American,Male,23,0,0,1,206,misdemeanor,4,0,Leave Acc/Attend Veh/More $50,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+669,670,14,9129,African American,Male,26,0,0,2,18,felony,6,0,Aggravated Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+670,671,14,622,Caucasian,Female,39,0,0,0,123,misdemeanor,6,0,Disorderly Intoxication,Disorderly Intoxication,"When an intoxicated person endangers the safety of another person or property, or causes a disturbance in public"
+671,672,14,3387,African American,Male,52,0,0,1,423,misdemeanor,1,1,Viol Injunct Domestic Violence,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+672,673,14,4336,African American,Male,23,0,0,1,303,felony,4,0,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+673,674,14,6525,Caucasian,Male,51,0,0,1,297,felony,1,1,Possession Of Alprazolam,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+674,675,14,10359,African American,Male,25,0,0,2,401,misdemeanor,6,0,Tresspass in Structure or Conveyance,Trespassing,"Willfully entering or remaining on some form of real property without authorization, license, or invitation"
+675,676,14,1128,Caucasian,Female,22,0,0,0,208,misdemeanor,5,0,Leaving Acc/Unattended Veh,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+676,677,14,1430,Hispanic,Male,47,0,0,0,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+677,678,14,9894,Caucasian,Female,34,0,0,10,306,felony,9,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+678,679,14,5432,Caucasian,Male,56,0,0,9,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+679,680,14,7526,Caucasian,Male,23,0,0,0,337,misdemeanor,3,1,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+680,681,14,6996,African American,Female,21,0,0,0,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+681,682,14,9867,African American,Male,41,0,0,6,252,felony,3,0,Poss Cocaine/Intent To Del/Sel,Possession of Cocaine,Possession of cocaine
+682,683,14,3841,Caucasian,Male,56,0,0,1,179,felony,2,0,Fleeing Or Attmp Eluding A Leo,Fleeing a Law Enforcement Officer,
+683,684,14,8060,Caucasian,Male,62,0,0,0,303,felony,1,0,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+684,685,14,3631,Caucasian,Female,36,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+685,686,14,277,African American,Male,47,0,0,23,283,misdemeanor,8,1,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+686,687,14,4776,African American,Male,38,0,0,3,169,felony,2,1,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+687,688,14,8354,Caucasian,Male,29,1,0,9,379,felony,8,1,Tampering With Physical Evidence,Tampering With Physical Evidence,"When a person alters, destroys, suppresses or conceals any record, document or thing with purpose to impair its verity, legibility or availability in any official proceeding or investigation"
+688,689,14,754,African American,Male,29,0,0,4,163,felony,4,1,False Ownership Info/Pawn Item,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+689,690,14,3722,African American,Male,23,0,0,1,45,misdemeanor,7,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+690,691,14,8962,Caucasian,Male,32,0,0,0,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+691,692,14,7123,African American,Male,27,0,0,0,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+692,693,14,8129,African American,Male,27,0,0,5,306,felony,9,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+693,694,14,10622,African American,Female,44,0,0,6,306,felony,6,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+694,695,14,844,African American,Male,58,0,0,6,175,felony,6,0,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+695,696,14,2511,Hispanic,Male,37,0,0,2,144,misdemeanor,3,0,Exposes Culpable Negligence,Child Abuse,Intentional infliction of physical or mental injury upon a child
+696,697,14,4761,Hispanic,Male,30,0,0,2,374,misdemeanor,2,1,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+697,698,14,2320,African American,Female,22,0,0,0,190,felony,4,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+698,699,14,5544,African American,Female,24,0,0,2,181,felony,4,0,Forging Bank Bills/Promis Note,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+699,700,14,9730,Caucasian,Male,30,0,0,0,134,misdemeanor,2,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+700,701,15,963,Caucasian,Male,25,0,0,1,16,felony,5,0,Aggravated Assault w/Firearm,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+701,702,15,7459,African American,Male,26,0,0,10,129,felony,8,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+702,703,15,10660,Hispanic,Male,23,0,0,0,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+703,704,15,9556,Hispanic,Male,30,0,0,1,15,felony,2,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+704,705,15,7868,African American,Female,37,0,0,0,190,felony,3,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+705,706,15,5042,African American,Male,45,0,0,13,424,misdemeanor,7,1,Viol Injunction Protect Dom Vi,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+706,707,15,8866,Hispanic,Female,34,0,0,1,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+707,708,15,5935,African American,Male,24,0,0,3,58,felony,4,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+708,709,15,7916,African American,Male,25,0,0,0,89,felony,7,0,Crim Use of Personal ID Info,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+709,710,15,6864,African American,Male,26,0,0,6,374,misdemeanor,10,1,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+710,711,15,2438,Asian,Male,67,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+711,712,15,70,African American,Male,29,0,0,0,379,felony,4,0,Tampering With Physical Evidence,Tampering With Physical Evidence,"When a person alters, destroys, suppresses or conceals any record, document or thing with purpose to impair its verity, legibility or availability in any official proceeding or investigation"
+712,713,15,7206,Hispanic,Male,37,0,0,6,172,felony,2,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+713,714,15,728,Hispanic,Male,34,0,0,4,61,felony,1,1,Burglary Dwelling Occupied,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+714,715,15,2632,Caucasian,Male,56,0,0,4,306,felony,1,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+715,716,15,6249,Caucasian,Male,38,0,0,2,85,felony,3,1,Corrupt Public Servant,Threatening a Public Servant,
+716,717,15,9509,African American,Male,27,0,0,9,253,felony,7,1,Poss Contr Subst W/o Prescript,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+717,718,15,10509,African American,Male,25,0,1,3,246,felony,7,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+718,719,15,5052,Caucasian,Male,44,0,0,0,186,felony,4,0,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+719,720,15,7320,Caucasian,Male,22,0,2,3,303,felony,8,1,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+720,721,15,4159,Caucasian,Male,41,0,0,1,58,felony,2,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+721,722,15,2583,Caucasian,Female,35,0,0,4,170,felony,3,0,Felony Battery w/Prior Convict,Battery,Intentionally causing bodily harm to another person without a weapon
+722,723,15,2402,African American,Male,46,0,0,15,129,felony,7,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+723,724,15,10271,Hispanic,Male,33,0,0,2,127,misdemeanor,3,0,Driving License Suspended,Driving with a Suspended License,Driving with a license that has been suspended
+724,725,15,3999,African American,Male,41,0,0,1,188,felony,1,0,Grand Theft Firearm,Grand Theft,The unlawful taking of property worth more than $300
+725,726,15,1241,Caucasian,Male,34,0,0,1,101,misdemeanor,3,1,Defrauding Innkeeper,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+726,727,15,3774,Caucasian,Male,61,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+727,728,15,1452,Caucasian,Female,21,0,1,0,128,misdemeanor,5,1,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+728,729,15,4397,African American,Male,37,0,0,2,129,felony,4,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+729,730,15,8728,Caucasian,Female,24,0,0,0,45,misdemeanor,6,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+730,731,15,3805,Caucasian,Male,28,0,0,0,190,felony,2,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+731,732,15,2278,Caucasian,Male,63,0,0,0,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+732,733,15,7894,African American,Male,20,0,0,0,35,felony,8,0,Att Burgl Unoccupied Dwel,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+733,734,15,10484,Caucasian,Male,29,0,0,2,180,misdemeanor,1,0,Fleeing or Eluding a LEO,Fleeing a Law Enforcement Officer,
+734,735,15,8223,Caucasian,Female,31,0,0,14,297,felony,10,0,Possession Of Alprazolam,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+735,736,15,7341,African American,Male,25,0,0,0,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+736,737,15,7166,African American,Female,33,0,0,1,152,felony,5,0,Fail To Redeliv Hire/Leas Prop,Failure to Redeliver Hired or Leased Property,
+737,738,15,4931,Caucasian,Male,50,0,0,0,169,felony,1,1,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+738,739,15,9136,African American,Male,26,0,0,5,60,felony,4,0,Burglary Dwelling Assault/Batt,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+739,740,15,9436,African American,Male,27,0,0,11,129,felony,7,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+740,741,15,5951,Hispanic,Female,33,0,0,0,6,felony,2,0,Agg Battery Grt/Bod/Harm,Battery,Intentionally causing bodily harm to another person without a weapon
+741,742,15,10894,African American,Male,33,0,0,3,71,felony,4,0,Carrying Concealed Firearm,Carrying a Concealed Weapon,"When a person knowingly carries, on or about their person, a weapon that is concealed from the ordinary sight of another person"
+742,743,15,990,Caucasian,Female,45,0,0,1,172,felony,6,0,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+743,744,15,10871,Caucasian,Female,43,0,0,0,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+744,745,15,1196,Caucasian,Male,31,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+745,746,15,5326,Caucasian,Male,34,0,0,3,45,misdemeanor,4,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+746,747,15,934,African American,Male,25,0,0,4,188,felony,5,1,Grand Theft Firearm,Grand Theft,The unlawful taking of property worth more than $300
+747,748,15,4288,Caucasian,Male,51,0,0,2,6,felony,1,0,Agg Battery Grt/Bod/Harm,Battery,Intentionally causing bodily harm to another person without a weapon
+748,749,15,863,Caucasian,Male,40,0,0,5,229,felony,4,0,Neglect Child / No Bodily Harm,Child Neglect,"When a caregiver willfully, or through culpable negligence, fails to provide a child with the care, supervision, and services necessary to maintain the child's physical and mental health that a prudent person would consider essential for the well-being of the child"
+749,750,15,7807,Caucasian,Male,34,0,0,13,190,felony,8,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+750,751,16,2874,African American,Male,33,0,0,2,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+751,752,16,9632,Caucasian,Male,46,0,0,1,319,felony,1,0,Possession of Oxycodone,Possession of Oxycodone,Possession of Oxycodone
+752,753,16,9106,Caucasian,Female,32,0,0,2,354,felony,2,1,Sell/Man/Del Pos/w/int Heroin,Possession of Heroin,
+753,754,16,7037,African American,Male,26,0,1,6,268,felony,10,1,Poss Pyrrolidinovalerophenone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+754,755,16,6875,Caucasian,Male,22,0,0,0,108,felony,8,0,"Deliver 3,4 Methylenediox",Dealing Controlled Substances,Possessing a criminalized narcotic or pharmacological drug with the intent to sell or deliver
+755,756,16,654,Caucasian,Male,33,0,0,0,21,felony,1,0,Aggravated Battery / Pregnant,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+756,757,16,2291,Caucasian,Male,72,0,0,1,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+757,758,16,9072,African American,Male,37,0,0,4,94,misdemeanor,7,1,Criminal Mischief>$200<$1000,Criminal Damage of less than $1000,"When a person willfully and maliciously damages another person's property - with damage less than $1,000"
+758,759,16,67,African American,Male,35,1,0,13,418,felony,8,1,Uttering a Forged Instrument,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+759,760,16,7051,African American,Male,56,0,0,1,129,felony,1,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+760,761,16,4534,African American,Female,32,0,0,0,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+761,762,16,10659,African American,Male,30,0,1,18,58,felony,10,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+762,763,16,7948,African American,Male,27,0,0,0,89,felony,6,0,Crim Use of Personal ID Info,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+763,764,16,3674,African American,Female,32,0,0,0,172,felony,2,0,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+764,765,16,533,African American,Female,23,0,0,0,129,felony,5,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+765,766,16,4112,African American,Male,21,0,0,1,65,felony,3,0,Burglary Unoccupied Dwelling,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+766,767,16,9914,Caucasian,Male,23,0,1,4,45,misdemeanor,4,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+767,768,16,692,African American,Male,29,0,0,3,309,felony,5,1,Possession of Ethylone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+768,769,16,6278,African American,Female,30,0,0,0,193,felony,2,0,Grand Theft on 65 Yr or Older,Grand Theft,The unlawful taking of property worth more than $300
+769,770,16,1787,African American,Male,24,0,0,0,58,felony,5,0,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+770,771,16,8724,African American,Male,42,1,0,7,306,felony,9,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+771,772,16,9942,Hispanic,Male,46,0,0,0,190,felony,1,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+772,773,16,6791,African American,Male,57,0,0,3,15,felony,1,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+773,774,16,6432,Caucasian,Female,42,0,0,3,163,felony,5,0,False Ownership Info/Pawn Item,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+774,775,16,4641,Caucasian,Female,35,0,0,1,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+775,776,16,646,Hispanic,Male,48,0,0,1,239,misdemeanor,1,1,Operating W/O Valid License,Operating a Vehicle without a Valid Drivers License,Operating a motor vehicle without a valid drivers license
+776,777,16,4518,African American,Male,24,0,0,5,172,felony,3,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+777,778,16,5655,Caucasian,Female,25,0,0,0,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+778,779,16,2054,Caucasian,Male,25,0,0,0,190,felony,2,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+779,780,16,8560,Caucasian,Male,47,0,0,2,133,misdemeanor,1,0,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+780,781,16,9506,African American,Male,24,0,0,0,45,misdemeanor,9,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+781,782,16,6043,Caucasian,Male,50,0,0,3,169,felony,3,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+782,783,16,8867,Caucasian,Male,24,0,0,6,58,felony,10,0,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+783,784,16,7738,Caucasian,Male,32,0,0,2,246,felony,2,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+784,785,16,7903,African American,Female,52,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+785,786,16,5650,African American,Male,28,0,0,5,306,felony,4,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+786,787,16,2382,African American,Male,58,0,0,24,175,felony,6,1,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+787,788,16,1729,African American,Male,39,0,0,1,283,misdemeanor,2,1,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+788,789,16,6264,African American,Female,29,0,0,0,6,felony,10,0,Agg Battery Grt/Bod/Harm,Battery,Intentionally causing bodily harm to another person without a weapon
+789,790,16,2262,African American,Male,23,0,0,0,45,misdemeanor,3,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+790,791,16,6503,Hispanic,Male,37,0,0,1,246,felony,2,1,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+791,792,16,2914,African American,Male,29,0,0,1,159,felony,9,0,False Imprisonment,False Imprisonment,"When a person either forcibly, by threat, confines, abducts, imprisons, or restrains another person without lawful authority against their will, or secretly confines, abducts, imprisons, or restrains another person without lawful authority against their will"
+792,793,16,4408,African American,Male,42,0,0,3,306,felony,1,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+793,794,16,4873,African American,Female,27,0,0,4,126,felony,6,1,Drivg While Lic Suspd/Revk/Can,Driving with a Suspended License,Driving with a license that has been suspended
+794,795,16,6481,African American,Female,23,0,0,0,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+795,796,16,5793,African American,Female,36,0,0,1,306,felony,3,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+796,797,16,640,African American,Male,20,0,0,0,186,felony,7,1,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+797,798,16,3438,Caucasian,Male,26,0,0,0,45,misdemeanor,6,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+798,799,16,10626,Caucasian,Male,46,0,0,0,14,felony,1,0,Aggravated Assault,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+799,800,16,8479,African American,Male,47,0,0,4,172,felony,4,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+800,801,17,6818,Caucasian,Female,51,0,0,0,206,misdemeanor,4,1,Leave Acc/Attend Veh/More $50,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+801,802,17,156,Caucasian,Male,24,0,1,8,163,felony,6,1,False Ownership Info/Pawn Item,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+802,803,17,6056,Caucasian,Male,31,0,0,17,319,felony,8,1,Possession of Oxycodone,Possession of Oxycodone,Possession of Oxycodone
+803,804,17,2514,African American,Male,35,0,1,23,268,felony,9,1,Poss Pyrrolidinovalerophenone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+804,805,17,10920,Caucasian,Male,34,0,0,4,246,felony,5,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+805,806,17,3229,Caucasian,Male,26,0,0,2,99,felony,5,0,D.U.I. Serious Bodily Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+806,807,17,4596,African American,Male,52,0,0,0,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+807,808,17,2767,Caucasian,Male,67,0,0,2,334,misdemeanor,1,1,Refuse Submit Blood/Breath Test,Refusing to Submit Blood or Breath Test for DUI,
+808,809,17,10536,African American,Male,26,0,0,8,280,felony,9,1,"Poss3,4 Methylenedioxymethcath",Possession of Ecstasy,Possession of Ecstasy
+809,810,17,8747,Caucasian,Male,25,0,0,5,129,felony,9,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+810,811,17,7615,African American,Male,34,0,0,0,129,felony,1,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+811,812,17,2153,African American,Male,22,0,0,3,418,felony,8,1,Uttering a Forged Instrument,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+812,813,17,6911,Hispanic,Male,20,0,0,0,337,misdemeanor,4,1,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+813,814,17,8416,African American,Female,24,0,0,0,112,felony,3,0,Deliver Cocaine,Dealing Cocaine,Possessing cocaine with the intent to sell or deliver the cocaine
+814,815,17,10997,African American,Male,23,0,0,0,209,felony,3,0,Leaving the Scene of Accident,Fleeing the Scene of an Accident,When a person is involved in an accident or crash and willfully leaves the scene of the accident or crash without providing their information to the other individuals involved
+815,816,17,222,Caucasian,Female,43,0,0,0,133,misdemeanor,1,0,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+816,817,17,2820,Caucasian,Male,66,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+817,818,17,10010,African American,Male,21,0,0,0,168,felony,9,1,Felony Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+818,819,17,2211,African American,Male,24,0,0,5,172,felony,7,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+819,820,17,2448,African American,Male,21,0,0,0,190,felony,8,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+820,821,17,7455,African American,Male,22,0,0,0,100,felony,7,0,Dealing in Stolen Property,Dealing Controlled Substances,Possessing a criminalized narcotic or pharmacological drug with the intent to sell or deliver
+821,822,17,5515,African American,Male,45,0,0,1,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+822,823,17,5818,African American,Male,23,0,0,0,169,felony,5,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+823,824,17,3676,African American,Male,50,0,0,1,306,felony,5,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+824,825,17,2410,Hispanic,Female,33,0,0,2,426,misdemeanor,4,0,Viol Prot Injunc Repeat Viol,Restraining Order Violation,Violating the terms of a restraining order
+825,826,17,8970,Caucasian,Male,69,0,0,0,128,misdemeanor,1,1,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+826,827,17,10851,African American,Female,29,0,0,2,336,felony,3,1,Resist Officer w/Violence,Resisting an Officer with Violence,"When a person knowingly and willfully resists, obstructs, or opposes a law enforcement officer by threatening violence or engaging in violent conduct against the law enforcement officer was engaged in the lawful execution of a legal duty"
+827,828,17,6606,African American,Male,43,0,0,0,246,felony,5,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+828,829,17,5349,Caucasian,Male,20,0,0,0,190,felony,10,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+829,830,17,2930,African American,Male,29,0,0,10,31,misdemeanor,10,1,Assault,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+830,831,17,4421,African American,Female,53,0,0,10,15,felony,2,1,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+831,832,17,1562,Hispanic,Male,26,0,0,0,404,felony,3,0,Unauth Poss ID Card or DL,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+832,833,17,5123,African American,Male,31,0,0,3,60,felony,3,1,Burglary Dwelling Assault/Batt,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+833,834,17,8191,African American,Male,21,0,0,0,49,felony,4,0,Battery on Law Enforc Officer,Battery,Intentionally causing bodily harm to another person without a weapon
+834,835,17,9662,Caucasian,Male,56,0,0,3,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+835,836,17,1004,Hispanic,Male,23,0,0,2,283,misdemeanor,6,1,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+836,837,17,8703,Caucasian,Female,61,0,0,0,306,felony,1,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+837,838,17,1526,African American,Male,36,0,0,5,306,felony,4,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+838,839,17,3941,Caucasian,Male,37,0,0,0,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+839,840,17,10577,Caucasian,Male,59,0,0,0,423,misdemeanor,2,1,Viol Injunct Domestic Violence,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+840,841,17,1795,Hispanic,Female,22,0,0,0,190,felony,6,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+841,842,17,9170,Caucasian,Male,52,0,0,1,56,felony,1,0,Burglary Conveyance Assault/Bat,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+842,843,17,4634,Caucasian,Male,27,0,0,0,133,misdemeanor,4,1,DUI Level 0.15 Or Minor In Veh,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+843,844,17,446,African American,Female,21,0,0,0,45,misdemeanor,6,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+844,845,17,2618,African American,Male,34,0,0,27,175,felony,9,1,Felony Petit Theft,Theft,The taking of another person's property worth less than $300
+845,846,17,6939,Caucasian,Male,62,0,0,2,364,felony,1,0,Solicit Deliver Cocaine,Purchasing Cocaine,
+846,847,17,2772,African American,Male,23,0,0,2,92,misdemeanor,8,1,Criminal Mischief,Criminal Damage of less than $1000,"When a person willfully and maliciously damages another person's property - with damage less than $1,000"
+847,848,17,3444,Caucasian,Male,44,0,0,0,306,felony,2,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+848,849,17,1153,Caucasian,Female,20,0,0,1,65,felony,8,1,Burglary Unoccupied Dwelling,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+849,850,17,1329,Caucasian,Male,22,0,1,1,190,felony,8,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+850,851,18,2053,African American,Male,23,0,0,0,45,misdemeanor,7,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+851,852,18,2723,African American,Male,25,0,0,4,89,felony,6,1,Crim Use of Personal ID Info,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+852,853,18,6766,African American,Male,29,0,1,8,268,felony,8,1,Poss Pyrrolidinovalerophenone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+853,854,18,9235,Caucasian,Male,56,0,0,1,176,felony,1,0,Felony/Driving Under Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+854,855,18,9219,African American,Male,28,0,0,7,337,misdemeanor,7,0,Resist/Obstruct W/O Violence,Resisting an Officer,"When a person knowingly and willfuly, but not violently, resists, obstructs, or opposes a law enforcement officer engaged in the execution of legal process, or lawful execution of a legal duty"
+855,856,18,8358,African American,Female,21,0,0,0,418,felony,6,0,Uttering a Forged Instrument,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+856,857,18,8501,African American,Male,33,0,0,14,129,felony,10,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+857,858,18,4971,African American,Male,19,0,1,2,190,felony,7,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+858,859,18,4164,Caucasian,Female,40,0,0,4,306,felony,4,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+859,860,18,4368,Hispanic,Male,22,0,0,1,190,felony,4,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+860,861,18,7269,Caucasian,Female,57,0,0,0,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+861,862,18,4719,Caucasian,Male,29,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+862,863,18,10645,African American,Male,31,0,0,0,129,felony,7,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+863,864,18,3847,African American,Male,22,1,0,2,418,felony,7,1,Uttering a Forged Instrument,Forgery,"When a person falsely makes, alters, counterfeits, or forges a document that carries Òlegal efficacyÓ"
+864,865,18,7411,African American,Male,30,0,0,5,15,misdemeanor,9,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+865,866,18,400,African American,Female,23,0,0,0,71,felony,4,1,Carrying Concealed Firearm,Carrying a Concealed Weapon,"When a person knowingly carries, on or about their person, a weapon that is concealed from the ordinary sight of another person"
+866,867,18,8205,Caucasian,Male,41,0,0,0,253,felony,2,1,Poss Contr Subst W/o Prescript,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+867,868,18,10841,African American,Male,27,0,0,0,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+868,869,18,2216,African American,Male,44,0,0,2,172,felony,2,0,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+869,870,18,8832,African American,Male,24,0,0,2,190,felony,5,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+870,871,18,2794,Caucasian,Male,27,0,1,4,45,misdemeanor,4,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+871,872,18,9277,African American,Female,27,0,0,0,45,misdemeanor,3,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+872,873,18,10946,African American,Male,27,0,0,1,134,misdemeanor,5,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+873,874,18,2613,Caucasian,Male,46,0,0,0,371,felony,1,0,Stalking (Aggravated),Stalking,"When a person willfully, maliciously, and repeatedly follows, harasses, or cyberstalks another person"
+874,875,18,364,African American,Male,25,0,0,0,190,felony,3,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+875,876,18,9216,Caucasian,Male,66,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+876,877,18,7930,Caucasian,Male,22,0,0,5,45,misdemeanor,5,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+877,878,18,9283,Caucasian,Male,40,0,0,5,313,felony,1,1,Possession of Hydromorphone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+878,879,18,1397,African American,Male,63,0,0,3,399,misdemeanor,9,0,Trespass Structure/Conveyance,Trespassing,"Willfully entering or remaining on some form of real property without authorization, license, or invitation"
+879,880,18,2149,African American,Male,33,0,0,0,303,felony,1,1,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+880,881,18,2515,African American,Male,28,2,1,11,179,felony,10,0,Fleeing Or Attmp Eluding A Leo,Fleeing a Law Enforcement Officer,
+881,882,18,2843,Caucasian,Male,39,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+882,883,18,10899,Caucasian,Male,25,0,0,7,397,misdemeanor,5,1,Trespass Struct/Conveyance,Trespassing,"Willfully entering or remaining on some form of real property without authorization, license, or invitation"
+883,884,18,5801,Caucasian,Male,51,0,0,6,306,felony,3,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+884,885,18,154,Caucasian,Female,39,0,0,0,15,felony,1,1,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+885,886,18,8518,African American,Male,21,0,0,1,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+886,887,18,6963,Caucasian,Female,49,0,0,2,306,felony,2,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+887,888,18,2206,African American,Male,30,0,0,2,127,misdemeanor,7,0,Driving License Suspended,Driving with a Suspended License,Driving with a license that has been suspended
+888,889,18,8641,Caucasian,Male,77,0,0,1,134,misdemeanor,1,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+889,890,18,6537,Caucasian,Male,26,0,0,4,377,felony,4,1,Tamper With Witness/Victim/CI,Tampering with a Witness,The act of attempting to alter or prevent the testimony of witnesses within criminal or civil proceedings
+890,891,18,2943,Caucasian,Male,42,0,0,0,16,felony,1,0,Aggravated Assault w/Firearm,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+891,892,18,319,Caucasian,Male,56,0,0,7,172,felony,1,1,Felony Driving While Lic Suspd,Driving with a Suspended License,Driving with a license that has been suspended
+892,893,18,8041,Hispanic,Male,27,0,0,6,129,felony,4,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+893,894,18,4820,African American,Male,62,0,0,13,339,felony,8,1,Retail Theft $300 1st Offense,Theft,The taking of another person's property worth less than $300
+894,895,18,5646,African American,Male,23,0,0,6,306,felony,6,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+895,896,18,8111,African American,Male,27,0,0,4,268,felony,8,1,Poss Pyrrolidinovalerophenone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+896,897,18,9868,African American,Male,32,0,0,1,45,misdemeanor,10,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+897,898,18,1553,Hispanic,Male,51,0,0,0,218,felony,1,1,Live on Earnings of Prostitute,Prostitution,Engaging in sex for money
+898,899,18,947,Caucasian,Female,23,0,0,3,253,felony,10,0,Poss Contr Subst W/o Prescript,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+899,900,18,9636,African American,Male,30,0,2,13,186,felony,10,1,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+900,901,19,1343,Hispanic,Male,24,0,0,3,58,felony,6,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+901,902,19,5669,African American,Male,32,0,0,17,306,felony,8,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+902,903,19,1146,African American,Male,26,0,0,4,16,felony,7,1,Aggravated Assault w/Firearm,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+903,904,19,9221,Caucasian,Male,22,0,0,3,306,felony,7,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+904,905,19,2329,African American,Male,25,0,4,14,186,felony,10,1,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+905,906,19,10277,African American,Male,30,0,1,14,129,felony,7,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+906,907,19,6805,African American,Male,22,0,0,0,59,felony,3,1,Burglary Dwelling Armed,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+907,908,19,1576,African American,Male,42,1,0,13,328,misdemeanor,8,1,Prowling/Loitering,Loitering,"Standing or waiting around idly in a manner unusual for law-abiding citizens, creating an imminent threat to public safety"
+908,909,19,10412,Caucasian,Male,49,0,0,0,190,felony,1,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+909,910,19,7298,African American,Female,42,0,0,1,298,felony,2,0,Possession Of Amphetamine,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+910,911,19,10383,African American,Male,27,0,0,10,129,felony,9,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+911,912,19,10336,African American,Male,29,1,0,3,45,misdemeanor,8,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+912,913,19,101,Hispanic,Male,45,0,0,6,306,felony,1,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+913,914,19,2076,African American,Male,30,0,0,7,246,felony,10,1,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+914,915,19,5754,African American,Male,34,0,0,13,297,felony,4,1,Possession Of Alprazolam,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+915,916,19,6267,Caucasian,Female,51,0,0,0,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+916,917,19,6094,Caucasian,Male,30,0,0,7,100,felony,10,1,Dealing in Stolen Property,Dealing Controlled Substances,Possessing a criminalized narcotic or pharmacological drug with the intent to sell or deliver
+917,918,19,10673,African American,Female,29,0,1,7,15,felony,7,1,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+918,919,19,320,African American,Male,38,0,0,15,306,felony,9,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+919,920,19,2809,African American,Male,23,0,0,0,246,felony,3,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+920,921,19,4692,Caucasian,Male,47,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+921,922,19,3751,African American,Male,41,2,0,18,410,misdemeanor,10,1,Unlaw Use False Name/Identity,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+922,923,19,3788,Caucasian,Male,39,0,0,0,306,felony,4,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+923,924,19,10302,African American,Male,61,0,0,14,261,misdemeanor,2,0,Poss Of Controlled Substance,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+924,925,19,837,Caucasian,Male,46,0,0,2,297,felony,6,1,Possession Of Alprazolam,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+925,926,19,7231,African American,Male,37,0,0,3,45,misdemeanor,7,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+926,927,19,2589,Hispanic,Female,34,0,0,5,218,felony,4,0,Live on Earnings of Prostitute,Prostitution,Engaging in sex for money
+927,928,19,5825,African American,Male,24,0,0,11,190,felony,9,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+928,929,19,6744,African American,Male,25,0,1,3,45,misdemeanor,10,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+929,930,19,7084,Caucasian,Female,24,0,0,0,312,felony,5,0,Possession of Hydrocodone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+930,931,19,2100,Caucasian,Male,44,0,0,0,374,misdemeanor,1,0,Susp Drivers Lic 1st Offense,Driving with a Suspended License,Driving with a license that has been suspended
+931,932,19,3019,Caucasian,Male,50,0,0,0,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+932,933,19,10334,African American,Male,20,0,0,0,382,felony,6,1,Threat Public Servant,Threat Against Public Servant,"An intentional and unlawful threat against an emergency medical care provider, firefighter, or law enforcement officer, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+933,934,19,3656,African American,Male,22,0,0,0,328,misdemeanor,9,0,Prowling/Loitering,Loitering,"Standing or waiting around idly in a manner unusual for law-abiding citizens, creating an imminent threat to public safety"
+934,935,19,10699,African American,Male,57,0,0,28,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+935,936,19,4833,Caucasian,Male,25,0,0,2,190,felony,5,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+936,937,19,7631,Caucasian,Male,22,0,0,0,306,felony,5,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+937,938,19,6420,African American,Male,24,0,1,9,239,misdemeanor,9,1,Operating W/O Valid License,Operating a Vehicle without a Valid Drivers License,Operating a motor vehicle without a valid drivers license
+938,939,19,5760,Caucasian,Male,38,0,0,0,132,misdemeanor,1,0,DUI Blood Alcohol Above 0.20,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+939,940,19,787,Hispanic,Male,30,0,0,7,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+940,941,19,8530,Hispanic,Male,45,0,0,0,169,felony,1,0,Felony Battery (Dom Strang),Battery,Intentionally causing bodily harm to another person without a weapon
+941,942,19,1240,African American,Male,29,0,1,16,306,felony,10,0,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+942,943,19,8149,Caucasian,Male,27,0,0,3,423,misdemeanor,3,0,Viol Injunct Domestic Violence,Domestic Violence,"The touching or striking of a family member, household member, or domestic partner against their will"
+943,944,19,1532,Hispanic,Male,59,0,0,1,216,misdemeanor,1,0,License Suspended Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+944,945,19,10544,Caucasian,Male,67,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+945,946,19,5177,Hispanic,Male,37,0,0,3,45,misdemeanor,1,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+946,947,19,2504,Caucasian,Male,22,0,0,0,242,misdemeanor,2,1,Petit Theft,Theft,The taking of another person's property worth less than $300
+947,948,19,7334,African American,Male,26,0,1,24,129,felony,10,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+948,949,19,2128,African American,Male,26,0,0,3,90,felony,3,1,Crimin Mischief Damage $1000+,Criminal Damage of more than $1000,"When a person willfully and maliciously damages another person's property - with damage of more than $1,000"
+949,950,19,6389,Caucasian,Female,29,0,0,6,306,felony,7,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+950,951,20,9442,African American,Male,25,0,0,1,246,felony,8,1,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+951,952,20,4809,Caucasian,Female,39,0,0,8,268,felony,7,1,Poss Pyrrolidinovalerophenone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+952,953,20,8207,Caucasian,Male,31,0,0,3,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+953,954,20,1283,African American,Male,21,0,1,1,33,felony,9,1,Att Burgl Conv Occp,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+954,955,20,3511,Caucasian,Male,23,0,0,0,280,felony,3,0,"Poss3,4 Methylenedioxymethcath",Possession of Ecstasy,Possession of Ecstasy
+955,956,20,4774,Caucasian,Male,61,0,0,0,128,misdemeanor,1,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+956,957,20,10012,African American,Female,24,0,0,2,190,felony,6,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+957,958,20,10377,Caucasian,Male,41,0,0,0,10,felony,1,0,Aggrav Battery w/Deadly Weapon,Battery with a Deadly Weapon,Intentionally causing bodily harm to another person with a deadly weapon
+958,959,20,9581,African American,Female,23,0,0,0,58,felony,3,0,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+959,960,20,9875,African American,Male,31,0,1,3,190,felony,1,1,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+960,961,20,3919,Asian,Male,46,0,0,3,306,felony,5,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+961,962,20,1331,African American,Male,23,0,3,6,58,felony,10,1,Burglary Conveyance Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+962,963,20,7023,Caucasian,Male,25,0,0,2,246,felony,5,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+963,964,20,6315,African American,Male,30,0,0,9,129,felony,3,1,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+964,965,20,5103,Hispanic,Male,30,0,0,7,5,felony,9,0,Agg Assault W/int Com Fel Dome,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+965,966,20,10289,Caucasian,Male,36,0,0,0,306,felony,8,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+966,967,20,1215,Hispanic,Male,83,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+967,968,20,3285,African American,Male,46,0,0,5,7,felony,5,1,Agg Fleeing and Eluding,Assault,"An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent"
+968,969,20,3273,African American,Male,21,0,0,1,306,felony,9,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+969,970,20,2310,African American,Male,28,0,0,3,280,felony,2,0,"Poss3,4 Methylenedioxymethcath",Possession of Ecstasy,Possession of Ecstasy
+970,971,20,3869,African American,Male,26,0,0,0,128,misdemeanor,4,0,Driving Under The Influence,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+971,972,20,3205,Caucasian,Male,49,0,0,2,134,misdemeanor,1,0,DUI Property Damage/Injury,Driving Under the Influence,Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher
+972,973,20,203,African American,Female,24,0,0,0,45,misdemeanor,2,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+973,974,20,9337,Caucasian,Male,44,0,0,1,61,felony,5,0,Burglary Dwelling Occupied,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+974,975,20,173,African American,Male,33,0,0,5,253,felony,5,1,Poss Contr Subst W/o Prescript,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+975,976,20,5877,African American,Male,35,0,1,8,129,felony,9,0,Driving While License Revoked,Driving with a Revoked License,Driving with a license that has been revoked
+976,977,20,3236,African American,Male,29,0,0,12,306,felony,10,1,Possession of Cocaine,Possession of Cocaine,Possession of cocaine
+977,978,20,9165,African American,Male,26,0,0,0,190,felony,9,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+978,979,20,6391,African American,Male,24,0,0,2,402,misdemeanor,8,1,Tresspass Struct/Conveyance,Trespassing,"Willfully entering or remaining on some form of real property without authorization, license, or invitation"
+979,980,20,4553,Hispanic,Male,34,0,0,2,239,misdemeanor,3,0,Operating W/O Valid License,Operating a Vehicle without a Valid Drivers License,Operating a motor vehicle without a valid drivers license
+980,981,20,6788,African American,Male,61,0,0,12,170,felony,3,0,Felony Battery w/Prior Convict,Battery,Intentionally causing bodily harm to another person without a weapon
+981,982,20,5997,Caucasian,Male,24,0,0,1,15,felony,6,0,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+982,983,20,10068,Caucasian,Male,22,0,0,0,190,felony,4,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+983,984,20,8876,African American,Male,29,0,0,7,61,felony,3,0,Burglary Dwelling Occupied,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+984,985,20,2507,African American,Male,28,0,0,5,283,misdemeanor,6,0,Possess Cannabis/20 Grams Or Less,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+985,986,20,9473,African American,Male,38,0,0,14,190,felony,7,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
+986,987,20,2934,African American,Male,25,0,0,1,64,felony,3,1,Burglary Structure Unoccup,Burglary,"Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside"
+987,988,20,3679,Caucasian,Female,47,0,0,0,326,misdemeanor,3,1,Prostitution/Lewd Act Assignation,Prostitution,Engaging in sex for money
+988,989,20,1670,African American,Male,23,0,0,1,404,felony,6,1,Unauth Poss ID Card or DL,Fraud,Wrongful or criminal deception intended to result in financial or personal gain
+989,990,20,5297,African American,Female,30,0,0,15,45,misdemeanor,8,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+990,991,20,1216,Caucasian,Male,28,0,0,2,246,felony,6,0,Pos Cannabis W/Intent Sel/Del,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+991,992,20,10394,African American,Male,30,0,0,0,45,misdemeanor,1,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+992,993,20,5001,African American,Male,23,0,0,0,45,misdemeanor,2,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+993,994,20,7923,Caucasian,Male,68,0,0,7,15,felony,7,1,Aggravated Assault W/Dead Weap,Assault with a Deadly Weapon,"An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent"
+994,995,20,7722,African American,Female,23,0,0,3,186,felony,9,1,Grand Theft (Motor Vehicle),Grand Theft,The unlawful taking of property worth more than $300
+995,996,20,7153,African American,Male,21,0,0,0,45,misdemeanor,4,0,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+996,997,20,10720,African American,Male,22,0,0,1,45,misdemeanor,6,1,Battery,Battery,Intentionally causing bodily harm to another person without a weapon
+997,998,20,7975,Caucasian,Male,23,8,2,11,303,felony,10,1,Possession of Cannabis,Possession of Cannabis/Marijuana,Possession of cannabis/marijuana
+998,999,20,7945,Caucasian,Male,26,0,0,2,313,felony,2,0,Possession of Hydromorphone,Possession of a Controlled Substance,Possession of a criminalized narcotic or pharmacological drug
+999,1000,20,4536,Caucasian,Female,44,0,0,1,190,felony,1,0,Grand Theft in the 3rd Degree,Grand Theft,The unlawful taking of property worth more than $300
