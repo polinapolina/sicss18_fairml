@@ -1,0 +1,1201 @@
+<row>
+    <qid><![CDATA[8307]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def8307]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 53. They have been charged with: Unlicensed Telemarketing. This crime is classified as a felony. They have been convicted of 5 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Unlicensed Telemarketing: When an unlicensed commercial telemarketing company or unlicensed salesperson solicits a purchaser for the purpose of attempting to sell consumer goods or services</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[10406]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def10406]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 43. They have been charged with: Possession of Cocaine. This crime is classified as a felony. They have been convicted of 2 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of Cocaine: Possession of cocaine</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[8267]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def8267]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 46. They have been charged with: Stalking. This crime is classified as a felony. They have been convicted of 3 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Stalking: When a person willfully, maliciously, and repeatedly follows, harasses, or cyberstalks another person</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[5593]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def5593]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 37. They have been charged with: Assault. This crime is classified as a misdemeaor. They have been convicted of 4 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Assault: An intentional and unlawful threat against another person, coupled with the apparent ability to carry out the threat, which creates a genuine and reasonable fear that violence or harm is imminent</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[61]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def61]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 51. They have been charged with: Possession of Cocaine. This crime is classified as a felony. They have been convicted of 7 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of Cocaine: Possession of cocaine</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[5438]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def5438]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 20. They have been charged with: Grand Theft. This crime is classified as a felony. They have been convicted of 1 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Grand Theft: The unlawful taking of property worth more than $300</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[5557]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def5557]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 51. They have been charged with: Domestic Violence. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Domestic Violence: The touching or striking of a family member, household member, or domestic partner against their will</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[9924]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def9924]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 29. They have been charged with: Assault with a Deadly Weapon. This crime is classified as a felony. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Assault with a Deadly Weapon: An intentional and unlawful threat against another person with a deadly weapon, or while in the commission of a felony, which creates a reasonable fear that violence or harm is imminent</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[4767]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def4767]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 39. They have been charged with: Possession of Cocaine. This crime is classified as a felony. They have been convicted of 3 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of Cocaine: Possession of cocaine</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[1733]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def1733]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 52. They have been charged with: Theft. This crime is classified as a misdemeaor. They have been convicted of 6 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Theft: The taking of another person's property worth less than $300</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[4766]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def4766]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 26. They have been charged with: Grand Theft. This crime is classified as a felony. They have been convicted of 2 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Grand Theft: The unlawful taking of property worth more than $300</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[5647]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def5647]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 42. They have been charged with: Driving Under the Influence. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Driving Under the Influence: Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[8827]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def8827]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 26. They have been charged with: Driving with a Revoked License. This crime is classified as a felony. They have been convicted of 5 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Driving with a Revoked License: Driving with a license that has been revoked</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[2719]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def2719]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 23. They have been charged with: Battery. This crime is classified as a felony. They have been convicted of 1 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[1443]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def1443]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 45. They have been charged with: Possession of Morphine. This crime is classified as a felony. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of Morphine: Possession of Morphine</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[7652]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def7652]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 25. They have been charged with: Driving with a Suspended License. This crime is classified as a felony. They have been convicted of 8 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Driving with a Suspended License: Driving with a license that has been suspended</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[3732]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def3732]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 26. They have been charged with: Criminal Damage of less than $1000. This crime is classified as a misdemeaor. They have been convicted of 1 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Criminal Damage of less than $1000: When a person willfully and maliciously damages another person's property - with damage less than $1,000</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[1024]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def1024]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 27. They have been charged with: Possession of Cocaine. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of Cocaine: Possession of cocaine</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[10307]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def10307]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 31. They have been charged with: Battery. This crime is classified as a felony. They have been convicted of 6 prior crimes. They have 2 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[8613]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def8613]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 33. They have been charged with: Driving Under the Influence. This crime is classified as a misdemeaor. They have been convicted of 2 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Driving Under the Influence: Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[6064]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def6064]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 31. They have been charged with: Battery. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[10452]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def10452]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 44. They have been charged with: Tampering With Physical Evidence. This crime is classified as a felony. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Tampering With Physical Evidence: When a person alters, destroys, suppresses or conceals any record, document or thing with purpose to impair its verity, legibility or availability in any official proceeding or investigation</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[8141]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def8141]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 21. They have been charged with: Trespassing. This crime is classified as a felony. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Trespassing: Willfully entering or remaining on some form of real property without authorization, license, or invitation</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[3398]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def3398]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 21. They have been charged with: Criminal Damage of less than $1000. This crime is classified as a felony. They have been convicted of 3 prior crimes. They have 1 juvenile felony charge(s) and 2 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Criminal Damage of less than $1000: When a person willfully and maliciously damages another person's property - with damage less than $1,000</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[8104]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def8104]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 42. They have been charged with: Resisting an Officer with Violence. This crime is classified as a felony. They have been convicted of 16 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Resisting an Officer with Violence: When a person knowingly and willfully resists, obstructs, or opposes a law enforcement officer by threatening violence or engaging in violent conduct against the law enforcement officer was engaged in the lawful execution of a legal duty</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[9644]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def9644]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 22. They have been charged with: Possession of Cannabis/Marijuana. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of Cannabis/Marijuana: Possession of cannabis/marijuana</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[3635]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def3635]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 24. They have been charged with: Forgery. This crime is classified as a felony. They have been convicted of 2 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Forgery: When a person falsely makes, alters, counterfeits, or forges a document that carries “legal efficacy”</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[1642]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def1642]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 29. They have been charged with: Battery. This crime is classified as a misdemeaor. They have been convicted of 1 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[9295]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def9295]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 30. They have been charged with: Possession of a Controlled Substance. This crime is classified as a felony. They have been convicted of 2 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of a Controlled Substance: Possession of a criminalized narcotic or pharmacological drug</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[4105]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def4105]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 33. They have been charged with: Child Neglect. This crime is classified as a felony. They have been convicted of 7 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Child Neglect: When a caregiver willfully, or through culpable negligence, fails to provide a child with the care, supervision, and services necessary to maintain the child's physical and mental health that a prudent person would consider essential for the well-being of the child</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[8517]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def8517]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 23. They have been charged with: Battery. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[4841]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def4841]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 55. They have been charged with: Battery. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[10011]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def10011]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 45. They have been charged with: Driving with a Suspended License. This crime is classified as a misdemeaor. They have been convicted of 4 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Driving with a Suspended License: Driving with a license that has been suspended</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[1441]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def1441]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 30. They have been charged with: Battery. This crime is classified as a misdemeaor. They have been convicted of 1 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[2182]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def2182]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 26. They have been charged with: Grand Theft. This crime is classified as a felony. They have been convicted of 1 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Grand Theft: The unlawful taking of property worth more than $300</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[9435]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def9435]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 24. They have been charged with: Possession of Cocaine. This crime is classified as a felony. They have been convicted of 3 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of Cocaine: Possession of cocaine</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[1741]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def1741]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 24. They have been charged with: Forgery. This crime is classified as a felony. They have been convicted of 5 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Forgery: When a person falsely makes, alters, counterfeits, or forges a document that carries “legal efficacy”</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[7324]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def7324]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 30. They have been charged with: Battery. This crime is classified as a felony. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[2910]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def2910]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 42. They have been charged with: Driving Under the Influence. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Driving Under the Influence: Operating a motor vehicle with a blood alcohol content (BAC) of 0.08% or higher</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[3957]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def3957]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 24. They have been charged with: Contributing to the Delinquency Of A Minor. This crime is classified as a misdemeaor. They have been convicted of 1 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Contributing to the Delinquency Of A Minor: When a person over the age of eighteen commits any act which causes, tends to cause, encourages, or contributes to a minor become delinquent, dependent, or a child in need of services</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[1022]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def1022]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 31. They have been charged with: Battery. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[921]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def921]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 30. They have been charged with: Possession of Cannabis/Marijuana. This crime is classified as a misdemeaor. They have been convicted of 1 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of Cannabis/Marijuana: Possession of cannabis/marijuana</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[3115]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def3115]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 40. They have been charged with: Prostitution. This crime is classified as a misdemeaor. They have been convicted of 7 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Prostitution: Engaging in sex for money</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[7678]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def7678]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 28. They have been charged with: Possession of Cocaine. This crime is classified as a felony. They have been convicted of 7 prior crimes. They have 0 juvenile felony charge(s) and 2 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Possession of Cocaine: Possession of cocaine</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[855]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def855]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 38. They have been charged with: Burglary. This crime is classified as a felony. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Burglary: Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[2393]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def2393]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 22. They have been charged with: Burglary. This crime is classified as a felony. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Burglary: Unlawfully entering a dwelling or structure or remaining in a dwelling or structure after permission to remain has been withdrawn, with the intent to commit a crime inside</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[9501]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def9501]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 45. They have been charged with: Battery. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[7412]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def7412]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 28. They have been charged with: Battery. This crime is classified as a felony. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[10044]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def10044]]></title>
+    <question><![CDATA[<p>The defendant is a male aged 34. They have been charged with: Driving with a Suspended License. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Driving with a Suspended License: Driving with a license that has been suspended</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+<row>
+    <qid><![CDATA[8938]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[989463]]></sid>
+    <gid><![CDATA[2]]></gid> 
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[def8938]]></title>
+    <question><![CDATA[<p>The defendant is a female aged 48. They have been charged with: Battery. This crime is classified as a misdemeaor. They have been convicted of 0 prior crimes. They have 0 juvenile felony charge(s) and 0 juvenile misdemeanor charge(s) on their record.  
+.</p><p>Battery: Intentionally causing bodily harm to another person without a weapon</p>
+<p>†</p>
+<p>Do you think this person will commit another crime within 2 years?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+
+
