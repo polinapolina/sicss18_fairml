@@ -1,0 +1,48 @@
+The Role of In-Group Bias and Balanced Data: A Comparison of Human and Machine Recidivism Risk Predictions
+ACM COMPASS'20, June 15-17, 2020
+
+Codebook for turkprime_survey_data_clean.csv
+
+random: ID of the questionnaire version allocated randomly to respondents (1-50)
+
+resp_id: unique identifier of respondents (89...5730)
+
+resp_race: respondent's race (African-American, Caucasian)
+
+resp_gender: respondent's gender (female, male, other)
+
+resp_state: respodent's state of residence within the United States
+
+resp_polview: respondent's political views (very conservative, conservative, moderate liberal, very liberal, don't know)
+
+resp_reason: respondent's reason for deciding about recidivism risk (age, crime description, gender, number of prior crimes, race, type of crime /misdemeanor or felony/)
+
+resp_decision: respondent's decision for each vignette (0/1)
+
+resp_age: respondent's age (18-80)
+
+resp_educ4: respondent's education (1 = less than secondary, 2 = secondary or post-secondary non-tertiary, 3 = Bachelor's or some post-graduate, 4 = post-graduate)
+
+def_id: a unique identifier of defendants (corresponds to id in BROWARD_ORIGINAL)
+
+def_gender: defendant's gender, from BROWARD_ORIGINAL (female, male)
+
+def_age: defendant's age, from BROWARD_ORIGINAL (19-79)
+
+def_race: defendant's race, from BROWARD_ORIGINAL (African-American, Caucasian)
+
+juv_fel_count: defendant's juvenile felony count, from BROWARD_ORIGINAL (0-4)
+
+juv_misd_count: defendant's juvenile misdemeanor count, from BROWARD_ORIGINAL (0-12)
+
+juv_other_count: defendant's other count, from BROWARD_ORIGINAL (0-7)
+
+priors_count: number of non-juvenile criminal charges, from BROWARD_ORIGINAL (0-29)
+
+c_charge_desc: charge description, from BROWARD_ORIGINAL
+
+c_charge_degree: degree of the charge, from BROWARD_ORIGINAL (F = felony, M = misdemeanor)
+
+decile_score: COMPAS recidivism risk score, from BROWARD_ORIGINAL (1-10)
+
+two_year_recid: indicator of whether the defendant recidivated two years after the charge, from BROWARD_ORIGINAL (0/1)
