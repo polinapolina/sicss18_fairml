@@ -19,14 +19,5 @@ https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorit
 * turkprime_survey_codebook.txt -- the description of the fields in the dataset csv
 * ACMCOMPASS_code.R -- R code used to produce comparative analysis with COMPAS tool scores and with survey from Julia Dressel and Hany Farid. 2018. The accuracy, fairness, and limits of predicting recidivism. Science Advances 4, 1 (2018), 1–6. 
 
-[//]: # (script . )
-
-[//]: # (detailed description of the dataset )
-
-[//]: # (For more detailes please see our paper:)
-[//]: # (The Role of In-Group Bias and Balanced Data: A Comparison of Human and Machine Recidivism Risk Predictions)
-[//]: # (Arpita Biswas, Marta Kolczynska, Saana Rantanen, Polina Rozenshtein)
-
-[//]: # (If you use this data in your research please cite our corresponding paper.)
-
+If you use this data in your research, please cite our corresponding paper. The Role of In-Group Bias and Balanced Data: A Comparison of Human and Machine Recidivism Risk Predictions. Arpita Biswas, Marta Kolczynska, Saana Rantanen, Polina Rozenshtein.
 [//]: # (bibtex entry:)
