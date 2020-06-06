@@ -7,7 +7,7 @@ For the detailed description of the survey and the findings please see *The Role
 
 The key features of this dataset are:
 
-* This is a crowdsourced human recidivism risk assessment by a thousand respondents in a vignette survey conducted via [TurkPrime] (www.turkprime.com), a platform that integrates with [Amazon’s Mechanical Turk](https://www.mturk.com) and offers more control over the profile of respondents (crowdworkers).
+* This is a crowdsourced human recidivism risk assessment by a thousand respondents in a vignette survey conducted via [TurkPrime](www.turkprime.com), a platform that integrates with [Amazon’s Mechanical Turk](https://www.mturk.com) and offers more control over the profile of respondents (crowdworkers).
 * The survey vignettes represented pre-trial defendants from Broward County, Florida, based on a dataset assembled by Jeff Larson, Surya Mattu, Lauren Kirchner, and Julia Angwin. 2016. How We Analyzed the COMPAS Recidivism Algorithm. Technical Report. ProPublica.
 https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
 * The vignettes were short descriptions of the defendants, including their sex, race, age, current charge and prior convictions. Respondents were expected to assess whether each defendant would commit another crime within the next two years.
