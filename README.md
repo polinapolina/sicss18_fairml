@@ -6,11 +6,13 @@ For the detailed description of the survey and the finsings please see XXX.
 
 The key features of this dataset are:
 
+* We crowdsourced human recidivism risk assessment by a thousand respondents in a vignette survey conducted via TurkPrime, a platform that integrates with Amazon’s Mechanical Turk and offers more control over the profile of respondents (crowdworkers).
 * The survey vignettes represent pre-trial defendants from Broward County, Florida, based on a dataset assembled by Jeff Larson, Surya Mattu, Lauren Kirchner, and Julia Angwin. 2016. How We Analyzed the COMPAS Recidivism Algorithm. Technical Report. ProPublica.
 https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
-* Crowdsourced human recidivism risk assessment by a thousand respondents in a vignette survey conducted via TurkPrime, a platform that integrates with Amazon’s Mechanical Turk and offers more control over the profile of respondents (crowdworkers).
-* The ratio of black (African-American) to white (Caucasian) survey respondents is close to 50 : 50.
-* The surveys were designed to represent a balanced set of defendants by race and recidivism status.
+* The vignettes are short descriptions of the defendants, including their sex, race, age, current charge and prior convictions. Respondents were expected to assess whether each defendant would commit another crime within the next two years.
+* Each respondent assessed 20 vignettes. There are 50 versions of the questionnaire, for a total of 1000 different vignettes (defendants).
+* We selected defendants to be described in vignettes in a way to ensure diversity. In the survey each respondent evaluated the risk of recidivism of 20 defendants, of whom 10 were white and 10 were black. In each of the two racial groups, half—five defendants—did indeed recidivate, and five did not recidivate.
+* We placed quotas on the racial composition of our survey respondents to ensure a 50 : 50 ratio of black and white respondents.
 
 
 [//]: # (script . )
