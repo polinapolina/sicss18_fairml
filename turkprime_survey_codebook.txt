@@ -1,5 +1,5 @@
 The Role of In-Group Bias and Balanced Data: A Comparison of Human and Machine Recidivism Risk Predictions
-ACM COMPASS'20, June 15-17, 2020. If you use this dataset in your research, please cite us.
+ACM COMPASS'20, June 15-17, 2020. If you use this dataset in your research, please cite this paper.
 
 Codebook for turkprime_survey_data_clean.csv
 
