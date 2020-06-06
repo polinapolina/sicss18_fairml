@@ -16,9 +16,9 @@ https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorit
 * The quotas were placed on the racial composition of our survey respondents to ensure a 50 : 50 ratio of black and white respondents.
 
 ### Files
-* turkprime_survey_data_clean.csv -- the dataset of responces
-* turkprime_survey_codebook.txt -- the description of the fields in the dataset csv
-* ACMCOMPASS_code.R -- R code used to produce comparative analysis with COMPAS automated recidivism scores and with survey from *Julia Dressel and Hany Farid. 2018. The accuracy, fairness, and limits of predicting recidivism. Science Advances 4, 1 (2018), 1–6.* 
+* **`turkprime_survey_data_clean.csv`** -- the dataset of responces
+* **`turkprime_survey_codebook.txt`** -- the description of the fields in the dataset csv
+* **`ACMCOMPASS_code.R`** -- R code used to produce comparative analysis with COMPAS automated recidivism scores and with survey from *Julia Dressel and Hany Farid. 2018. The accuracy, fairness, and limits of predicting recidivism. Science Advances 4, 1 (2018), 1–6.* 
 
 If you use this dataset in your research, please cite our corresponding paper. *The Role of In-Group Bias and Balanced Data: A Comparison of Human and Machine Recidivism Risk Predictions. Arpita Biswas, Marta Kolczynska, Saana Rantanen, Polina Rozenshtein. ACM COMPASS 2020.*
 [//]: # (bibtex entry:)
